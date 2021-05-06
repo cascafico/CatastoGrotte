@@ -1,0 +1,261 @@
+[
+  {
+    "op": "core/column-reorder",
+    "description": "Reorder columns",
+    "columnNames": [
+      "CATASTO_RE",
+      "NOME_PRINC",
+      "NOME_INGR",
+      "LAT_WGS84",
+      "LON_WGS84",
+      "QUOTA",
+      "SVIL_PLAN",
+      "DISLIVELLO",
+      "TIPO_INGRE",
+      "MORF_INGRE",
+      "TARGHETTA",
+      "LAT_RDN",
+      "LON_RDN"
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column NOME_INGR",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "NOME_INGR",
+          "expression": "value",
+          "columnName": "NOME_INGR",
+          "invert": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Ingresso 1",
+                "l": "Ingresso 1"
+              }
+            }
+          ],
+          "selectNumber": false,
+          "selectDateTime": false,
+          "selectBoolean": false,
+          "omitBlank": false,
+          "selectBlank": false,
+          "omitError": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "NOME_INGR",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ingresso 1"
+        ],
+        "to": " "
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column name at index 3 based on column NOME_INGR using expression grel:cells[\"NOME_PRINC\"].value+\" - \"+value",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "NOME_INGR",
+          "columnName": "NOME_INGR",
+          "query": "^ ",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": true,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "newColumnName": "name",
+    "columnInsertIndex": 3,
+    "baseColumnName": "NOME_INGR",
+    "expression": "grel:cells[\"NOME_PRINC\"].value+\" - \"+value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column name using expression grel:cells[\"NOME_PRINC\"].value",
+    "engineConfig": {
+      "facets": [
+        {
+          "name": "NOME_INGR",
+          "columnName": "NOME_INGR",
+          "query": "^ ",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false,
+          "type": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "name",
+    "expression": "grel:cells[\"NOME_PRINC\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column QUOTA using expression grel:value.replace(\".00\", \"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "QUOTA",
+    "expression": "grel:value.replace(\".00\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column SVIL_PLAN using expression grel:value.replace(\".00\", \"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "SVIL_PLAN",
+    "expression": "grel:value.replace(\".00\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DISLIVELLO using expression grel:value.replace(\".00\", \"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DISLIVELLO",
+    "expression": "grel:value.replace(\".00\", \"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column description at index 11 based on column MORF_INGRE using expression grel:\"Ingresso \"+toLowercase(cells[\"TIPO_INGRE\"].value)+\" a \"+\ntoLowercase(cells[\"MORF_INGRE\"].value)+\", sviluppo planimetrico \"+\ncells[\"SVIL_PLAN\"].value+\" m e dislivello \"+\ncells[\"DISLIVELLO\"].value+\" m\"",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "description",
+    "columnInsertIndex": 11,
+    "baseColumnName": "MORF_INGRE",
+    "expression": "grel:\"Ingresso \"+toLowercase(cells[\"TIPO_INGRE\"].value)+\" a \"+\ntoLowercase(cells[\"MORF_INGRE\"].value)+\", sviluppo planimetrico \"+\ncells[\"SVIL_PLAN\"].value+\" m e dislivello \"+\ncells[\"DISLIVELLO\"].value+\" m\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column CATASTO_RE to ref",
+    "oldColumnName": "CATASTO_RE",
+    "newColumnName": "ref"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column LAT_WGS84 to lat",
+    "oldColumnName": "LAT_WGS84",
+    "newColumnName": "lat"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column LON_WGS84 to lon",
+    "oldColumnName": "LON_WGS84",
+    "newColumnName": "lon"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column QUOTA to ele",
+    "oldColumnName": "QUOTA",
+    "newColumnName": "ele"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column SVIL_PLAN using expression value.toNumber()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "SVIL_PLAN",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column DISLIVELLO using expression value.toNumber()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DISLIVELLO",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column lunghe at index 8 based on column SVIL_PLAN using expression grel:if(value>20,\"y\",\"n\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "lunghe",
+    "columnInsertIndex": 8,
+    "baseColumnName": "SVIL_PLAN",
+    "expression": "grel:if(value>20,\"y\",\"n\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column id at index 1 based on column ref using expression grel:rowIndex",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "lunghe",
+          "expression": "value",
+          "columnName": "lunghe",
+          "invert": false,
+          "selection": [
+            {
+              "v": {
+                "v": "y",
+                "l": "y"
+              }
+            }
+          ],
+          "selectNumber": false,
+          "selectDateTime": false,
+          "selectBoolean": false,
+          "omitBlank": false,
+          "selectBlank": false,
+          "omitError": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "newColumnName": "id",
+    "columnInsertIndex": 1,
+    "baseColumnName": "ref",
+    "expression": "grel:rowIndex",
+    "onError": "set-to-blank"
+  }
+]

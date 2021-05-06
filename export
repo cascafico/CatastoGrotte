@@ -1,0 +1,13 @@
+    {
+      "id"  : {{(cells["id"].value)}},
+      "lat" : {{(cells["lat"].value)}},
+      "lon" : {{(cells["lon"].value)}},
+      "tags" : {
+               "name" : {{jsonize(cells["name"].value)}},
+               "description" : {{jsonize(cells["description"].value)}},
+               "ref" : {{jsonize(cells["ref"].value)}},
+               "ele" : {{jsonize(cells["ele"].value)}},
+               "natural"  : "cave_entrance"
+               }
+    }
+

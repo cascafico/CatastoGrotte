@@ -1,0 +1,7384 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     13.8213421,
+     45.7026082
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2274803881,
+    "osm_type": "node",
+    "ref_coords": [
+     13.821342,
+     45.702608
+    ],
+    "ref_distance": 0.0,
+    "ref_id": "554",
+    "tags.cave:ref": "500",
+    "tags.name": "Grotta del Frassino",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://catastogrotte.fvg.it/500",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 52 m e dislivello 16 m",
+    "tags_new.ele": "327",
+    "tags_new.ref": "500"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8860383,
+     45.6168161
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2315658440,
+    "osm_type": "node",
+    "ref_coords": [
+     13.886038,
+     45.616816
+    ],
+    "ref_distance": 0.0,
+    "ref_id": "1547",
+    "tags.cave:ref": "1435",
+    "tags.name": "Grotta sulla destra del Torrente Rosandra",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://catastogrotte.fvg.it/1435",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 77 m e dislivello 7 m",
+    "tags_new.ele": "320",
+    "tags_new.ref": "1435"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8809255,
+     45.6191514
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4413169493,
+    "osm_type": "node",
+    "ref_coords": [
+     13.880925,
+     45.619151
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "1012",
+    "ref_unused_tags.name": "Fessura del Vento",
+    "tags.cave:old_ref": "4139VG",
+    "tags.cave:ref": "930",
+    "tags.ele": "295",
+    "tags.name": "Fessura del Vento - ingresso 1",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2626 m e dislivello 143 m",
+    "tags_new.ref": "930"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8271364,
+     45.7054355
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2274803879,
+    "osm_type": "node",
+    "ref_coords": [
+     13.827136,
+     45.705435
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "456",
+    "ref_unused_tags.name": "Grotta Sottomonte",
+    "tags.cave:ref": "412",
+    "tags.ele": "323",
+    "tags.name": "Grotta Sottomonte (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://catastogrotte.fvg.it/412",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 97 m e dislivello 55 m",
+    "tags_new.ref": "412"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5809133,
+     45.8336308
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7379631286,
+    "osm_type": "node",
+    "ref_coords": [
+     13.580913,
+     45.83363
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "434",
+    "ref_unused_tags.name": "Abisso di Bonetti - Ingresso 2",
+    "tags.ele": "186",
+    "tags.name": "Abisso di Bonetti (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 87.50 m e dislivello 49 m",
+    "tags_new.ref": "393"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8452215,
+     45.6380868
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1620336273,
+    "osm_type": "node",
+    "ref_coords": [
+     13.845221,
+     45.638086
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "18",
+    "tags.access": "yes",
+    "tags.ele": "361",
+    "tags.name": "Grotta nel Bosco dei Pini",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/16-Grotta_nel_Bosco_dei_Pini",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 367 m e dislivello 41 m",
+    "tags_new.ref": "16"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8597755,
+     45.6125072
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7335136826,
+    "osm_type": "node",
+    "ref_coords": [
+     13.859776,
+     45.612508
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "86",
+    "tags.ele": "62",
+    "tags.name": "Antro di Bagnoli",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 145 m e dislivello 52 m",
+    "tags_new.ref": "76"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7192836,
+     45.7703748
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1623542541,
+    "osm_type": "node",
+    "ref_coords": [
+     13.719283,
+     45.770374
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "140",
+    "ref_unused_tags.ele": "248.60",
+    "ref_unused_tags.name": "Grotta di Boriano",
+    "tags.alt_name:it": "Grotta di Boriano",
+    "tags.alt_name:sl": "Vodenica",
+    "tags.cave:ref": "125",
+    "tags.ele": "248.6",
+    "tags.name": "Grotta dell'Acqua / Vodnica",
+    "tags.name:it": "Grotta dell'Acqua",
+    "tags.name:sl": "Vodnica",
+    "tags.natural": "cave_entrance",
+    "tags.wikidata": "Q3777060",
+    "tags.wikipedia": "it:Grotta di Boriano",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 188 m e dislivello 23.50 m",
+    "tags_new.ref": "125"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8564838,
+     45.6533832
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5387385133,
+    "osm_type": "node",
+    "ref_coords": [
+     13.856483,
+     45.653384
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "757",
+    "ref_unused_tags.ele": "372",
+    "ref_unused_tags.name": "Caverna presso Basovizza",
+    "tags.access": "yes",
+    "tags.cave:ref": "689",
+    "tags.ele": "370",
+    "tags.name": "Grotta dei Partigiani o Caverna presso Basovizza/ Partizanska jama",
+    "tags.name:it": "Grotta dei Partigiani o Caverna presso Basovizza",
+    "tags.name:sl": "Partizanska jama",
+    "tags.natural": "cave_entrance",
+    "tags.official_name": "Caverna presso Basovizza",
+    "tags.website": "http://www.catastogrotte.fvg.it/689-Caverna_presso_Basovizza",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 82.50 m e dislivello 24 m",
+    "tags_new.ref": "689"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.563786,
+     45.8185291
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7380158861,
+    "osm_type": "node",
+    "ref_coords": [
+     13.563786,
+     45.818528
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "43",
+    "tags.ele": "39",
+    "tags.name": "Grotta delle Frane",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 82.80 m e dislivello 17.80 m",
+    "tags_new.ref": "38"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8747437,
+     45.6197189
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7335104749,
+    "osm_type": "node",
+    "ref_coords": [
+     13.874744,
+     45.61972
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "1843",
+    "tags.ele": "140",
+    "tags.name": "Grotta degli Altari",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 236.50 m e dislivello 49.50 m",
+    "tags_new.ref": "1714"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8158098,
+     45.707686
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2274803882,
+    "osm_type": "node",
+    "ref_coords": [
+     13.815809,
+     45.707685
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "630",
+    "tags.cave:ref": "569",
+    "tags.name": "Grotta delle Perle",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://catastogrotte.fvg.it/569",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 317 m e dislivello 109 m",
+    "tags_new.ele": "324",
+    "tags_new.ref": "569"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8845818,
+     45.61718
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2282238001,
+    "osm_type": "node",
+    "ref_coords": [
+     13.884581,
+     45.617179
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "588",
+    "tags.name": "Grotta dei Pipistrelli",
+    "tags.name:it": "Grotta dei Pipistrelli",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "527",
+    "tags.website": "http://catastogrotte.fvg.it/?TYPE=raw&TASK=scheda-light&id_cat=527&Slide=1",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 110 m e dislivello 9 m",
+    "tags_new.ele": "320"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3257222,
+     46.2683342
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3450644191,
+    "osm_type": "node",
+    "ref_coords": [
+     13.325722,
+     46.268333
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "1572",
+    "tags.name": "Grotta Pod Lanisce",
+    "tags.natural": "cave_entrance",
+    "tags.wikidata": "Q3777135",
+    "tags.wikipedia": "it:Grotte di Villanova",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 1950 m e dislivello 30 m",
+    "tags_new.ele": "400",
+    "tags_new.ref": "1456"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7944024,
+     45.7398952
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7364690796,
+    "osm_type": "node",
+    "ref_coords": [
+     13.794402,
+     45.739894
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "1878",
+    "ref_unused_tags.name": "Grotta Francesco",
+    "tags.ele": "470",
+    "tags.name": "Grotta Francesco Stradi",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/1745-Grotta_Francesco",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 167 m e dislivello 63 m",
+    "tags_new.ref": "1745"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8167131,
+     45.6576143
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7363224654,
+    "osm_type": "node",
+    "ref_coords": [
+     13.816713,
+     45.657613
+    ],
+    "ref_distance": 0.1,
+    "ref_id": "1494",
+    "tags.ele": "220",
+    "tags.name": "Abisso della Cava Faccanoni",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 75 m e dislivello 150.50 m",
+    "tags_new.ref": "1386"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7616221,
+     45.7163177
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5387705263,
+    "osm_type": "node",
+    "ref_coords": [
+     13.761624,
+     45.716318
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "4534",
+    "ref_unused_tags.ele": "285",
+    "tags.access": "yes",
+    "tags.ele": "284",
+    "tags.name": "Grotta del Paranco",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://www.catastogrotte.fvg.it/4215-Grotta_del_Paranco",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 180 m e dislivello 40 m",
+    "tags_new.ref": "4215"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7632962,
+     45.7179675
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7364587716,
+    "osm_type": "node",
+    "ref_coords": [
+     13.763296,
+     45.717966
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "1094",
+    "tags.ele": "263",
+    "tags.name": "Caverna 1° del Colle Pauliano",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 64 m e dislivello 11.50 m",
+    "tags_new.ref": "1003"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6969578,
+     45.7787185
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7390368564,
+    "osm_type": "node",
+    "ref_coords": [
+     13.696957,
+     45.778717
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "980",
+    "tags.ele": "223",
+    "tags.name": "Caverna 3° del Monte Sedlen",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/898-Caverna_3_del_Monte_Sedlen",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 115 m e dislivello 58.50 m",
+    "tags_new.ref": "898"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6786198,
+     45.7659116
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1975074727,
+    "osm_type": "node",
+    "ref_coords": [
+     13.67862,
+     45.76591
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "1670",
+    "tags.cave:ref": "1550",
+    "tags.ele": "198",
+    "tags.name": "Grotta dell'Ansa",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/1550-Grotta_dellAnsa",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 185.50 m e dislivello 91.50 m",
+    "tags_new.ref": "1550"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5753682,
+     45.8204404
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7381491220,
+    "osm_type": "node",
+    "ref_coords": [
+     13.575367,
+     45.820439
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "2557",
+    "tags.ele": "64",
+    "tags.name": "Grotta Andrea",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 71 m e dislivello 56.70 m",
+    "tags_new.ref": "2391"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8832361,
+     45.6179478
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1620336275,
+    "osm_type": "node",
+    "ref_coords": [
+     13.883234,
+     45.617947
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "321",
+    "ref_unused_tags.name": "Grotta delle Gallerie",
+    "tags.ele": "345",
+    "tags.name": "Grotta delle Gallerie (1° ingresso) / Pečina pod Steno",
+    "tags.name:it": "Grotta delle Gallerie",
+    "tags.name:sl": "Pečina pod Steno",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 209 m e dislivello 26 m",
+    "tags_new.ref": "290"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8144718,
+     45.6896127
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7391717838,
+    "osm_type": "node",
+    "ref_coords": [
+     13.814472,
+     45.689611
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "1975",
+    "ref_unused_tags.name": "Grotta presso Banne",
+    "tags.ele": "310",
+    "tags.name": "Grotta presso Banne (N° 1838)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/1838-Grotta_presso_Banne",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 45 m e dislivello 53 m",
+    "tags_new.ref": "1838"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7553579,
+     45.6999506
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7342440873,
+    "osm_type": "node",
+    "ref_coords": [
+     13.755357,
+     45.699949
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "99",
+    "ref_unused_tags.name": "Caverna delle Mura - Ingresso 2",
+    "tags.ele": "271",
+    "tags.name": "Caverna delle Mura (2° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/87-Caverna_delle_Mura",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 63 m e dislivello 4.30 m",
+    "tags_new.ref": "87"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5446105,
+     45.8093627
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7385441479,
+    "osm_type": "node",
+    "ref_coords": [
+     13.544611,
+     45.809361
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "448",
+    "ref_unused_tags.name": "Caverna Vergine - Ingresso 2",
+    "tags.ele": "47",
+    "tags.name": "Caverna Vergine (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 68 m e dislivello 17.70 m",
+    "tags_new.ref": "404"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6538106,
+     45.7962707
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7373393992,
+    "osm_type": "node",
+    "ref_coords": [
+     13.65381,
+     45.796269
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "3807",
+    "tags.ele": "176",
+    "tags.name": "Grotta 2° a W di Monte Sambuco",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/3549-Grotta_2_a_W_di_Monte_Sambuco",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 42 m e dislivello 14 m",
+    "tags_new.ref": "3549"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6418554,
+     45.7793987
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2294520605,
+    "osm_type": "node",
+    "ref_coords": [
+     13.641856,
+     45.779397
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "91",
+    "ref_unused_tags.name": "Grotta di Visogliano",
+    "tags.cave:ref": "80",
+    "tags.ele": "105",
+    "tags.name": "Grotta di Visogliano / Pejca v dolinah",
+    "tags.name:sl": "Pejca v dolinah",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 82 m e dislivello 19 m",
+    "tags_new.ref": "80"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5773477,
+     45.8176975
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5381609634,
+    "osm_type": "node",
+    "ref_coords": [
+     13.577349,
+     45.817699
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "459",
+    "ref_unused_tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 77.50 m e dislivello 12.50 m",
+    "tags.access": "yes",
+    "tags.description": "Caverna usata come Infermeria durante la prima guerra mondiale",
+    "tags.ele": "50",
+    "tags.name": "Caverna dell'Infermeria",
+    "tags.natural": "cave_entrance",
+    "tags_new.ref": "414"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6653018,
+     45.7535918
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7375828030,
+    "osm_type": "node",
+    "ref_coords": [
+     13.665302,
+     45.75359
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "637",
+    "tags.ele": "131",
+    "tags.name": "Grotta a NW di Aurisina",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 115 m e dislivello 44 m",
+    "tags_new.ref": "575"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.755188,
+     45.7000747
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7342454943,
+    "osm_type": "node",
+    "ref_coords": [
+     13.755187,
+     45.700073
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "98",
+    "ref_unused_tags.name": "Caverna delle Mura",
+    "tags.ele": "272",
+    "tags.name": "Caverna delle Mura (1° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 63 m e dislivello 4.30 m",
+    "tags_new.ref": "87"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.689023,
+     45.739067
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7385999472,
+    "osm_type": "node",
+    "ref_coords": [
+     13.689023,
+     45.739065
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "202",
+    "tags.ele": "180",
+    "tags.name": "Abisso della Cava di Boschetti",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/180-Abisso_della_Cava_di_Boschetti",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 112 m e dislivello 110 m",
+    "tags_new.ref": "180"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7016323,
+     45.756284
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7386131454,
+    "osm_type": "node",
+    "ref_coords": [
+     13.701632,
+     45.756282
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "517",
+    "tags.ele": "240",
+    "tags.name": "Grotta Gialla",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 58 m e dislivello 17 m",
+    "tags_new.ref": "467"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5718284,
+     45.832493
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7376181471,
+    "osm_type": "node",
+    "ref_coords": [
+     13.571828,
+     45.832491
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "1748",
+    "tags.ele": "187",
+    "tags.name": "Grotta dell'Artiglieria",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 95.90 m e dislivello 42.50 m",
+    "tags_new.ref": "1625"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5974857,
+     45.796755
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7372459855,
+    "osm_type": "node",
+    "ref_coords": [
+     13.597485,
+     45.796753
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "4644",
+    "ref_unused_tags.name": "Grotta di Guerra di Medeazza - Ingresso 3",
+    "tags.ele": "108",
+    "tags.name": "Grotta di Guerra di Medeazza (1° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 46 m e dislivello 7 m",
+    "tags_new.ref": "4315"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5470899,
+     45.8101821
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7389198697,
+    "osm_type": "node",
+    "ref_coords": [
+     13.54709,
+     45.81018
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "2590",
+    "ref_unused_tags.name": "Caverna della Valle Verde",
+    "tags.ele": "56",
+    "tags.name": "Caverna della Valle Verde (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2.40 m",
+    "tags_new.ref": "2424"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5946328,
+     45.8073311
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7372669409,
+    "osm_type": "node",
+    "ref_coords": [
+     13.594633,
+     45.807329
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "8242",
+    "ref_unused_tags.name": "Caverna del Tenente Weber",
+    "tags.ele": "135",
+    "tags.name": "Caverna del Tenente Weber (1° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 63.50 m e dislivello 7.50 m",
+    "tags_new.ref": "7585"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8776323,
+     45.6181769
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7385723580,
+    "osm_type": "node",
+    "ref_coords": [
+     13.877631,
+     45.618175
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "626",
+    "tags.ele": "124",
+    "tags.name": "Grotta delle Ninfe",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 65 m e dislivello 12.50 m",
+    "tags_new.ref": "565"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9582445,
+     46.6000501
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7422349089,
+    "osm_type": "node",
+    "ref_coords": [
+     12.958244,
+     46.600048
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "5414",
+    "tags.cave:ref": "5021",
+    "tags.ele": "1659",
+    "tags.name": "Grotta Labirynth",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 270 m e dislivello 90 m",
+    "tags_new.ref": "5021"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6281391,
+     45.795184
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 596430862,
+    "osm_type": "node",
+    "ref_coords": [
+     13.628138,
+     45.795182
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "1745",
+    "ref_unused_tags.name": "Grotta sul Monte Ermada - Ingresso artificiale",
+    "tags.ele": "288",
+    "tags.name": "Grotta sul monte Ermada (ingresso artificiale) / Pejca na Grmadi",
+    "tags.name:it": "Grotta sul monte Ermada",
+    "tags.name:sl": "Pejca na Grmadi",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/1621-Grotta_sul_Monte_Ermada",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 170 m e dislivello 40 m",
+    "tags_new.ref": "1621"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.737566,
+     45.7304682
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7375653322,
+    "osm_type": "node",
+    "ref_coords": [
+     13.737566,
+     45.730466
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "8615",
+    "tags.ele": "245",
+    "tags.name": "Abisso Malasuerte",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 150 m e dislivello 128 m",
+    "tags_new.ref": "7915"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5565497,
+     45.8580422
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7392389113,
+    "osm_type": "node",
+    "ref_coords": [
+     13.55655,
+     45.85804
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "479",
+    "ref_unused_tags.ele": "96.50",
+    "ref_unused_tags.name": "Grotta di Marcottini - Ingresso 2",
+    "tags.ele": "96",
+    "tags.name": "Grotta di Marcottini (ingresso artificiale)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 44.50 m e dislivello 5 m",
+    "tags_new.ref": "429"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5446107,
+     45.8095022
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7385441478,
+    "osm_type": "node",
+    "ref_coords": [
+     13.544611,
+     45.8095
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "447",
+    "ref_unused_tags.name": "Caverna Vergine",
+    "tags.ele": "52",
+    "tags.name": "Caverna Vergine (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 68 m e dislivello 17.70 m",
+    "tags_new.ref": "404"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7490243,
+     45.7254732
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2514169738,
+    "osm_type": "node",
+    "ref_coords": [
+     13.749024,
+     45.725471
+    ],
+    "ref_distance": 0.2,
+    "ref_id": "8261",
+    "tags.cave:old_ref": "6473VG",
+    "tags.cave:ref": "7599",
+    "tags.ele": "225",
+    "tags.name": "Grotta del Baratro dei Cavalli",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 101 m e dislivello 51.20 m",
+    "tags_new.ref": "7599"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9635546,
+     46.3777523
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7419820478,
+    "osm_type": "node",
+    "ref_coords": [
+     12.963555,
+     46.37775
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "667",
+    "tags.cave:ref": "605",
+    "tags.ele": "535",
+    "tags.name": "Grotta di Chialduis",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 586 m e dislivello 44 m",
+    "tags_new.ref": "605"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5970795,
+     45.7954543
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7372406346,
+    "osm_type": "node",
+    "ref_coords": [
+     13.59708,
+     45.795452
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "4629",
+    "tags.ele": "110",
+    "tags.name": "Caverna a SW di Medeazza",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 43 m e dislivello 9 m",
+    "tags_new.ref": "4307"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6318776,
+     45.7956443
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2186245054,
+    "osm_type": "node",
+    "ref_coords": [
+     13.631877,
+     45.795642
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "738",
+    "ref_unused_tags.name": "Caverna del Monte Querceto - Ingresso naturale",
+    "tags.cave:old_ref": "3719VG",
+    "tags.cave:ref": "671",
+    "tags.ele": "221",
+    "tags.name": "Grotta del Motore (ingresso naturale)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/671-Caverna_del_Monte_Querceto",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 9 m",
+    "tags_new.ref": "671"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8816923,
+     45.6190724
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7386133295,
+    "osm_type": "node",
+    "ref_coords": [
+     13.881692,
+     45.61907
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "5500",
+    "tags.ele": "350",
+    "tags.name": "Grotta del Gufo",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 59 m e dislivello 17 m",
+    "tags_new.ref": "5090"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5748865,
+     45.8355824
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6466628308,
+    "osm_type": "node",
+    "ref_coords": [
+     13.574886,
+     45.83558
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "8087",
+    "ref_unused_tags.name": "Grotta Mameli",
+    "tags.ele": "195",
+    "tags.name": "Grotta Mameli (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://catastogrotte.fvg.it/7465-Grotta_Mameli",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 57.50 m e dislivello 7.60 m",
+    "tags_new.ref": "7465"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5471187,
+     45.8103923
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7389198698,
+    "osm_type": "node",
+    "ref_coords": [
+     13.54712,
+     45.81039
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "2592",
+    "ref_unused_tags.name": "Caverna della Valle Verde - Ingresso 3",
+    "tags.ele": "57",
+    "tags.name": "Caverna della Valle Verde (ingresso 3)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2.40 m",
+    "tags_new.ref": "2424"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7040509,
+     45.7483815
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7367008157,
+    "osm_type": "node",
+    "ref_coords": [
+     13.704051,
+     45.748379
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "164",
+    "tags.ele": "208",
+    "tags.name": "Grotta delle Radici",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 43 m e dislivello 2.40 m",
+    "tags_new.ref": "147"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3053343,
+     46.2339145
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7435073499,
+    "osm_type": "node",
+    "ref_coords": [
+     13.305334,
+     46.233912
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "156",
+    "tags.ele": "520",
+    "tags.name": "Grotta di Monteprato",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/139-Grotta_di_Monteprato",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 158.42 m e dislivello 47.49 m",
+    "tags_new.ref": "139"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6060283,
+     45.7833315
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7385986048,
+    "osm_type": "node",
+    "ref_coords": [
+     13.606028,
+     45.783329
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "3309",
+    "tags.ele": "181",
+    "tags.name": "Grotta a N di Duino",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 61.30 m e dislivello 9.20 m",
+    "tags_new.ref": "3098"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3512491,
+     46.2493355
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7434833051,
+    "osm_type": "node",
+    "ref_coords": [
+     13.35125,
+     46.249333
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "5732",
+    "tags.ele": "560",
+    "tags.name": "Risorgiva Liscovaz",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 368 m e dislivello 21.30 m",
+    "tags_new.ref": "5312"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6499341,
+     45.7651916
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7369767317,
+    "osm_type": "node",
+    "ref_coords": [
+     13.649934,
+     45.765189
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "8077",
+    "ref_unused_tags.name": "Grotta nella Breccia di Sistiana",
+    "tags.ele": "104",
+    "tags.name": "Grotta nella Breccia di Sistiana (1° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 44 m e dislivello 8 m",
+    "tags_new.ref": "7457"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2678507,
+     46.2484346
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7431167508,
+    "osm_type": "node",
+    "ref_coords": [
+     13.267851,
+     46.248432
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "2280",
+    "tags.ele": "630",
+    "tags.name": "Grotta del Partigiano",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/2125-Grotta_del_Partigiano",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1800 m e dislivello 327 m",
+    "tags_new.ref": "2125"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6320902,
+     45.7955107
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7392287493,
+    "osm_type": "node",
+    "ref_coords": [
+     13.63209,
+     45.795508
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "739",
+    "ref_unused_tags.name": "Caverna del Monte Querceto - Ingresso artificiale",
+    "tags.ele": "212",
+    "tags.name": "Grotta del Motore (ingresso artificiale)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/671-Caverna_del_Monte_Querceto",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 45 m e dislivello 9 m",
+    "tags_new.ref": "671"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8173295,
+     45.7074697
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7386111914,
+    "osm_type": "node",
+    "ref_coords": [
+     13.81733,
+     45.707467
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "555",
+    "ref_unused_tags.name": "Caverna dei Ciclami",
+    "tags.ele": "328",
+    "tags.name": "Caverna dei Ciclami (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 59 m e dislivello 13 m",
+    "tags_new.ref": "501"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2869771,
+     46.2526557
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7431070500,
+    "osm_type": "node",
+    "ref_coords": [
+     13.286978,
+     46.252653
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "15",
+    "ref_unused_tags.name": "Grotta Doviza",
+    "tags.ele": "623",
+    "tags.name": "Grotta Doviza (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/13-Grotta_Doviza",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 4591 m e dislivello 123 m",
+    "tags_new.ref": "13"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8704281,
+     45.6178727
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7375992268,
+    "osm_type": "node",
+    "ref_coords": [
+     13.870429,
+     45.61787
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "1724",
+    "tags.ele": "252",
+    "tags.name": "Grotta delle Tacche",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 106 m e dislivello 21 m",
+    "tags_new.ref": "1600"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5372008,
+     46.1098728
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7430682999,
+    "osm_type": "node",
+    "ref_coords": [
+     13.537201,
+     46.10987
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "1168",
+    "tags.ele": "300",
+    "tags.name": "Grotta Risorgiva di Star Cedat",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/1076-Grotta_Risorgiva_di_Star_Cedat",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 1200 m e dislivello 60 m",
+    "tags_new.ref": "1076"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7547226,
+     45.7233018
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7380856519,
+    "osm_type": "node",
+    "ref_coords": [
+     13.754723,
+     45.723299
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "426",
+    "tags.ele": "269",
+    "tags.name": "Grotta Marcella",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 72 m e dislivello 27 m",
+    "tags_new.ref": "385"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2568078,
+     46.2552687
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7434739522,
+    "osm_type": "node",
+    "ref_coords": [
+     13.256809,
+     46.255266
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "70",
+    "ref_unused_tags.name": "Grotta Vedronza - Ingresso A",
+    "tags.ele": "309",
+    "tags.name": "Grotta Vedronza (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 800 m e dislivello 9 m",
+    "tags_new.ref": "63"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5443886,
+     45.8096688
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7385478164,
+    "osm_type": "node",
+    "ref_coords": [
+     13.544388,
+     45.809666
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "144",
+    "ref_unused_tags.name": "Grotta dei Pipistrelli",
+    "tags.ele": "56",
+    "tags.name": "Grotta dei Pipistrelli (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 44 m e dislivello 17 m",
+    "tags_new.ref": "128"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5701109,
+     45.8374749
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7398879390,
+    "osm_type": "node",
+    "ref_coords": [
+     13.570111,
+     45.837472
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "4635",
+    "ref_unused_tags.name": "Grotta 2ª di Bonetti - Ingresso destro",
+    "tags.ele": "152",
+    "tags.name": "Grotta 2ª di Bonetti (ingresso 3)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 42.50 m e dislivello 2.60 m",
+    "tags_new.ref": "4309"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2920592,
+     46.2405451
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 6936975232,
+    "osm_type": "node",
+    "ref_coords": [
+     13.292055,
+     46.240545
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "197",
+    "tags.loc_name": "Olobigneza",
+    "tags.name": "Grotta di Pre Oreak",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 420 m e dislivello 5 m",
+    "tags_new.ele": "285",
+    "tags_new.ref": "176"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2871894,
+     46.2526889
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7431070501,
+    "osm_type": "node",
+    "ref_coords": [
+     13.287189,
+     46.252686
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "13",
+    "ref_unused_tags.name": "Grotta Doviza - Ingresso 2",
+    "tags.ele": "607",
+    "tags.name": "Grotta Doviza (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 4591 m e dislivello 123 m",
+    "tags_new.ref": "13"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4294774,
+     46.3774019
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7438887640,
+    "osm_type": "node",
+    "ref_coords": [
+     13.429478,
+     46.377399
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "2159",
+    "tags.ele": "1992",
+    "tags.name": "Abisso Emilio Comici",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/2009-Abisso_Emilio_Comici",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 1520 m e dislivello 710 m",
+    "tags_new.ref": "2009"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2668862,
+     46.2504269
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7434860956,
+    "osm_type": "node",
+    "ref_coords": [
+     13.266887,
+     46.250424
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "2295",
+    "tags.ele": "595",
+    "tags.name": "Inghiottitoio a N di Stavolo Zabarie",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 213 m e dislivello 43 m",
+    "tags_new.ref": "2140"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8834994,
+     45.6177548
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7354730087,
+    "osm_type": "node",
+    "ref_coords": [
+     13.883498,
+     45.617752
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "322",
+    "ref_unused_tags.name": "Grotta delle Gallerie - Ingresso 2",
+    "tags.ele": "345",
+    "tags.name": "Grotta delle Gallerie (2° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 209 m e dislivello 26 m",
+    "tags_new.ref": "290"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9673879,
+     46.601947
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7422368440,
+    "osm_type": "node",
+    "ref_coords": [
+     12.967388,
+     46.601944
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "8616",
+    "ref_unused_tags.name": "Grotta Ruggero \"Fauro\" Timeus - Fauro",
+    "tags.cave:ref": "7916",
+    "tags.ele": "1640",
+    "tags.name": "Grotta Ruggero \"Fauro\" Timeus",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 165 m e dislivello 15 m",
+    "tags_new.ref": "7916"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2279841,
+     46.260075
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7434771982,
+    "osm_type": "node",
+    "ref_coords": [
+     13.227985,
+     46.260072
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "2810",
+    "tags.ele": "505",
+    "tags.name": "Grotta di Artegna",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 476 m e dislivello 5 m",
+    "tags_new.ref": "2627"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6985371,
+     45.735072
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7392449081,
+    "osm_type": "node",
+    "ref_coords": [
+     13.698538,
+     45.735069
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "182",
+    "ref_unused_tags.name": "Grotta degli Occhiali",
+    "tags.ele": "194",
+    "tags.name": "Grotta degli Occhiali (ingresso caverna)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 44 m e dislivello 20 m",
+    "tags_new.ref": "162"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5114912,
+     46.2039081
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7430843170,
+    "osm_type": "node",
+    "ref_coords": [
+     13.511491,
+     46.203905
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "973",
+    "ref_unused_tags.name": "Abisso a SW del Monte Matajur",
+    "tags.ele": "1200",
+    "tags.name": "Abisso a SW del Monte Matajur (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/893-Abisso_a_SW_del_Monte_Matajur",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 405 m e dislivello 175 m",
+    "tags_new.ref": "893"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2869037,
+     46.2522701
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7431070502,
+    "osm_type": "node",
+    "ref_coords": [
+     13.286904,
+     46.252267
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "14",
+    "ref_unused_tags.name": "Grotta Doviza - Ingresso 3",
+    "tags.ele": "611",
+    "tags.name": "Grotta Doviza (ingresso 3)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 4591 m e dislivello 123 m",
+    "tags_new.ref": "13"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4434676,
+     46.3872431
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3011972492,
+    "osm_type": "node",
+    "ref_coords": [
+     13.443468,
+     46.38724
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "1712",
+    "tags.cave:ref": "1588",
+    "tags.ele": "1482",
+    "tags.name": "Grotta presso Casere Goriuda",
+    "tags.natural": "cave_entrance",
+    "tags.source": "www.catastogrotte.fvg.it",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 70 m e dislivello 32 m",
+    "tags_new.ref": "1588"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5702216,
+     45.8375581
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2639367421,
+    "osm_type": "node",
+    "ref_coords": [
+     13.570222,
+     45.837555
+    ],
+    "ref_distance": 0.3,
+    "ref_id": "4634",
+    "ref_unused_tags.name": "Grotta 2ª di Bonetti - Ingresso centrale",
+    "tags.ele": "152",
+    "tags.name": "Grotta 2ª di Bonetti (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 42.50 m e dislivello 2.60 m",
+    "tags_new.ref": "4309"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7260858,
+     45.7309631
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1621725323,
+    "osm_type": "node",
+    "ref_coords": [
+     13.726085,
+     45.73096
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "35",
+    "ref_unused_tags.name": "Grotta Ercole",
+    "tags.cave:old_ref": "6VG",
+    "tags.cave:ref": "31",
+    "tags.name": "Grotta Ercole / Velika pečina",
+    "tags.name:it": "Grotta Ercole",
+    "tags.name:sl": "Velika pečina",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 290 m e dislivello 100 m",
+    "tags_new.ele": "216",
+    "tags_new.ref": "31"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.94997,
+     46.6006502
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7422318372,
+    "osm_type": "node",
+    "ref_coords": [
+     12.94997,
+     46.600647
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "2244",
+    "ref_unused_tags.ele": "1573",
+    "tags.cave:ref": "2090",
+    "tags.ele": "1580",
+    "tags.name": "Grotta Palpiccola",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 456 m e dislivello 72 m",
+    "tags_new.ref": "2090"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5702769,
+     45.8375862
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2639367420,
+    "osm_type": "node",
+    "ref_coords": [
+     13.570277,
+     45.837583
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "4633",
+    "ref_unused_tags.name": "Grotta 2ª di Bonetti - Ingresso sinistro",
+    "tags.ele": "154",
+    "tags.name": "Grotta 2ª di Bonetti (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 42.50 m e dislivello 2.60 m",
+    "tags_new.ref": "4309"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2567208,
+     46.2553152
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7434739523,
+    "osm_type": "node",
+    "ref_coords": [
+     13.256721,
+     46.255312
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "71",
+    "ref_unused_tags.name": "Grotta Vedronza - Ingresso B",
+    "tags.ele": "321",
+    "tags.name": "Grotta Vedronza (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 800 m e dislivello 9 m",
+    "tags_new.ref": "63"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6969415,
+     45.7433047
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7346912181,
+    "osm_type": "node",
+    "ref_coords": [
+     13.696939,
+     45.743302
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "4735",
+    "tags.ele": "175",
+    "tags.name": "Caverna dei Vasi",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/4400-Caverna_dei_Vasi",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 50 m e dislivello 12.50 m",
+    "tags_new.ref": "4400"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2859539,
+     46.2482152
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7431153067,
+    "osm_type": "node",
+    "ref_coords": [
+     13.285953,
+     46.248212
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "8412",
+    "ref_unused_tags.name": "Grotta Tirfor - Tirfor 1",
+    "tags.ele": "560",
+    "tags.name": "Grotta Tirfor (ingresso 1)",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/7739-Grotta_Tirfor",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2380 m e dislivello 57 m",
+    "tags_new.ref": "7739"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6312948,
+     46.1681813
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7430725716,
+    "osm_type": "node",
+    "ref_coords": [
+     13.631295,
+     46.168178
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "1211",
+    "tags.ele": "515",
+    "tags.name": "Grotta del Cane",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/1113-Grotta_del_Cane",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 529 m e dislivello 15 m",
+    "tags_new.ref": "1113"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8841782,
+     45.6157343
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7392139884,
+    "osm_type": "node",
+    "ref_coords": [
+     13.884178,
+     45.615731
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "867",
+    "tags.ele": "231",
+    "tags.name": "Grotta sopra Bottazzo",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 45 m e dislivello 19 m",
+    "tags_new.ref": "793"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2342453,
+     46.2392653
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7435030839,
+    "osm_type": "node",
+    "ref_coords": [
+     13.234245,
+     46.239262
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "286",
+    "tags.ele": "325",
+    "tags.name": "Grotta di Crosis",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/257-Grotta_di_Crosis",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 167 m e dislivello 26 m",
+    "tags_new.ref": "257"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9597595,
+     46.6003843
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7422433207,
+    "osm_type": "node",
+    "ref_coords": [
+     12.959759,
+     46.600381
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "5117",
+    "tags.alt_name:it": "Al cavernone",
+    "tags.cave:ref": "4743",
+    "tags.ele": "1664",
+    "tags.name": "Grotta 1° sul Sentiero Vetta Sciapò-Pal Piccolo",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 91 m e dislivello 7 m",
+    "tags_new.ref": "4743"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4498,
+     46.3710204
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7446805543,
+    "osm_type": "node",
+    "ref_coords": [
+     13.4498,
+     46.371017
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "5854",
+    "tags.ele": "2002",
+    "tags.name": "Grotta a N del Monte Ursic",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/5430-Grotta_a_N_del_Monte_Ursic",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 76 m e dislivello 62 m",
+    "tags_new.ref": "5430"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3752141,
+     46.2071104
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7435001161,
+    "osm_type": "node",
+    "ref_coords": [
+     13.375214,
+     46.207107
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "4168",
+    "tags.ele": "595",
+    "tags.name": "Grotta in località Podlodinz",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/3880-Grotta_in_localit_Podlodinz",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 183.10 m e dislivello 34.40 m",
+    "tags_new.ref": "3880"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2838298,
+     46.2476614
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7431153068,
+    "osm_type": "node",
+    "ref_coords": [
+     13.28383,
+     46.247658
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "8413",
+    "ref_unused_tags.name": "Grotta Tirfor - Tirfor 2",
+    "tags.ele": "578",
+    "tags.name": "Grotta Tirfor (ingresso 2)",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2380 m e dislivello 57 m",
+    "tags_new.ref": "7739"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.0145914,
+     46.3526155
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7420687610,
+    "osm_type": "node",
+    "ref_coords": [
+     13.014591,
+     46.352612
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "7039",
+    "tags.cave:ref": "6527",
+    "tags.ele": "598",
+    "tags.name": "Corona 2",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 79 m e dislivello 14 m",
+    "tags_new.ref": "6527"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4224714,
+     46.2004195
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7434821625,
+    "osm_type": "node",
+    "ref_coords": [
+     13.422472,
+     46.200416
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "3413",
+    "tags.ele": "770",
+    "tags.name": "Grotta di Montefosca",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/3195-Grotta_di_Montefosca",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 284.40 m e dislivello 19.40 m",
+    "tags_new.ref": "3195"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5851459,
+     46.1871896
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7430964895,
+    "osm_type": "node",
+    "ref_coords": [
+     13.585146,
+     46.187186
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "2282",
+    "tags.ele": "535",
+    "tags.name": "Grotta di Cepletischis",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/2127-Grotta_di_Cepletischis",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 234 m e dislivello 28 m",
+    "tags_new.ref": "2127"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5436084,
+     46.2090066
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7430761110,
+    "osm_type": "node",
+    "ref_coords": [
+     13.543609,
+     46.209003
+    ],
+    "ref_distance": 0.4,
+    "ref_id": "1731",
+    "tags.ele": "1375",
+    "tags.name": "Grotta presso Casera Glava",
+    "tags.natural": "cave_entrance",
+    "tags.url": "https://catastogrotte.regione.fvg.it/scheda/1607-Grotta_presso_Casera_Glava",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 413 m e dislivello 81 m",
+    "tags_new.ref": "1607"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4357715,
+     46.3916032
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3011972488,
+    "osm_type": "node",
+    "ref_coords": [
+     13.435772,
+     46.391599
+    ],
+    "ref_distance": 0.5,
+    "ref_id": "22",
+    "tags.cave:ref": "20",
+    "tags.ele": "861",
+    "tags.name": "Fontanon di Goriuda",
+    "tags.natural": "cave_entrance",
+    "tags.source": "www.catastogrotte.fvg.it",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 767.60 m e dislivello 121 m",
+    "tags_new.ref": "20"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.740252,
+     45.6984001
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7340716514,
+    "osm_type": "node",
+    "ref_coords": [
+     13.740247,
+     45.698397
+    ],
+    "ref_distance": 0.5,
+    "ref_id": "543",
+    "tags.ele": "270",
+    "tags.name": "Caverna 2ª sulla Strada Napoleonica",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 41.50 m e dislivello 9.50 m",
+    "tags_new.ref": "491"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.4185714,
+     46.0591104
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7296539708,
+    "osm_type": "node",
+    "ref_coords": [
+     12.418579,
+     46.05911
+    ],
+    "ref_distance": 0.6,
+    "ref_id": "8091",
+    "ref_unused_tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 138 m e dislivello 45 m",
+    "tags.access": "no",
+    "tags.depth": "45",
+    "tags.description": "n° 7468 del Catasto Speleologico Regionale Del Friuli Venezia Giulia",
+    "tags.direction": "ESE",
+    "tags.ele": "1011",
+    "tags.fee": "no",
+    "tags.name": "Grotta degli Slipari",
+    "tags.natural": "cave_entrance",
+    "tags.source": "CSpR-FVG",
+    "tags_new.ref": "7468"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.620692,
+     45.795068
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5379243743,
+    "osm_type": "node",
+    "ref_coords": [
+     13.620687,
+     45.795064
+    ],
+    "ref_distance": 0.6,
+    "ref_id": "8333",
+    "ref_unused_tags.name": "Caverna 22 sul Monte Ermada",
+    "tags.access": "yes",
+    "tags.cave:ref": "7668",
+    "tags.ele": "268",
+    "tags.name": "Caverna 22 sul monte Ermada",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/7668-Caverna_22_sul_Monte_Ermada",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 92 m e dislivello 25.50 m",
+    "tags_new.ref": "7668"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.88512,
+     45.61658
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2282237994,
+    "osm_type": "node",
+    "ref_coords": [
+     13.885127,
+     45.616592
+    ],
+    "ref_distance": 1.4,
+    "ref_id": "5297",
+    "tags.name": "Grotta Martina",
+    "tags.name:it": "Grotta Martina",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1991 m e dislivello 60 m",
+    "tags_new.ele": "284",
+    "tags_new.ref": "4910"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8673722,
+     45.6072018
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3339965901,
+    "osm_type": "node",
+    "ref_coords": [
+     13.867364,
+     45.607214
+    ],
+    "ref_distance": 1.5,
+    "ref_id": "595",
+    "ref_unused_tags.name": "Grotta di Crogole",
+    "tags.name": "Krogljanska jama / Grotta di Crogole",
+    "tags.name:it": "Grotta di Crogole",
+    "tags.name:sl": "Krogljanska jama",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 193 m e dislivello 46 m",
+    "tags_new.ele": "347",
+    "tags_new.ref": "535"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.1837629,
+     46.5752621
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1349649629,
+    "osm_type": "node",
+    "ref_coords": [
+     13.183784,
+     46.575257
+    ],
+    "ref_distance": 1.7,
+    "ref_id": "1201",
+    "tags.name": "Grotta di Attila",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 453 m e dislivello 41 m",
+    "tags_new.ele": "1762",
+    "tags_new.ref": "1103"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6137229,
+     45.7803304
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3207690363,
+    "osm_type": "node",
+    "ref_coords": [
+     13.61374,
+     45.780343
+    ],
+    "ref_distance": 1.9,
+    "ref_id": "465",
+    "ref_unused_tags.name": "Grotta Alexanderhohle",
+    "tags.name": "Grotta di Alexander",
+    "tags.name:de": "Alexander Höhle",
+    "tags.name:it": "Grotta di Alexander",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 192 m e dislivello 39 m",
+    "tags_new.ele": "156",
+    "tags_new.ref": "419"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5680807,
+     46.1239646
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4754993224,
+    "osm_type": "node",
+    "ref_coords": [
+     13.5681,
+     46.123947
+    ],
+    "ref_distance": 2.5,
+    "ref_id": "275",
+    "ref_unused_tags.name": "Grotta Velenizza",
+    "tags.name": "Grotta di Velenica",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 74 m e dislivello 1 m",
+    "tags_new.ele": "260",
+    "tags_new.ref": "246"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.547349,
+     45.8779983
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5332822661,
+    "osm_type": "node",
+    "ref_coords": [
+     13.547357,
+     45.878022
+    ],
+    "ref_distance": 2.7,
+    "ref_id": "360",
+    "ref_unused_tags.ele": "191",
+    "ref_unused_tags.name": "Antro di Casali Neri",
+    "tags.alt_name": "Grotta Pečina",
+    "tags.ele": "197",
+    "tags.name": "Pečina",
+    "tags.natural": "cave_entrance",
+    "tags.old_name": "Antro dei Casali Neri",
+    "tags.survey:date": "2020-02-12",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 55 m e dislivello 14.40 m",
+    "tags_new.ref": "326"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6372347,
+     45.7778598
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2575502427,
+    "osm_type": "node",
+    "ref_coords": [
+     13.637268,
+     45.777846
+    ],
+    "ref_distance": 3.0,
+    "ref_id": "1402",
+    "ref_unused_tags.name": "Grotta Valentina",
+    "tags.cave:ref": "1295",
+    "tags.name": "Grotta Valentina / Valentinina jama",
+    "tags.name:it": "Grotta Valentina",
+    "tags.name:sl": "Valentinina jama",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 365 m e dislivello 31 m",
+    "tags_new.ele": "96",
+    "tags_new.ref": "1295"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.1996661,
+     46.5580034
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 4013531090,
+    "osm_type": "node",
+    "ref_coords": [
+     13.199677,
+     46.558031
+    ],
+    "ref_distance": 3.2,
+    "ref_id": "1139",
+    "ref_unused_tags.name": "Abisso Silvio Polidori",
+    "tags.fixme": "Fix the name! Or is the question mark part of the name, then mention it in a note.",
+    "tags.name": "Grotta di Silvio Polidori ?",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 235 m e dislivello 192 m",
+    "tags_new.ele": "1665",
+    "tags_new.ref": "1047"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6921059,
+     45.7417788
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7347059059,
+    "osm_type": "node",
+    "ref_coords": [
+     13.692093,
+     45.741807
+    ],
+    "ref_distance": 3.3,
+    "ref_id": "106",
+    "ref_unused_tags.name": "Caverna Tripoli",
+    "tags.ele": "176",
+    "tags.name": "Caverna Tripoli - Jama Tripoli",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/93-Caverna_Tripoli",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 112 m e dislivello 24 m",
+    "tags_new.ref": "93"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5674072,
+     45.8817126
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1590867267,
+    "osm_type": "node",
+    "ref_coords": [
+     13.56745,
+     45.881705
+    ],
+    "ref_distance": 3.4,
+    "ref_id": "2493",
+    "ref_unused_tags.name": "Grotta Regina del Carso",
+    "tags.cave:ref": "2328",
+    "tags.name": "Grotta Regina del Carso / Kraljica Krasa",
+    "tags.name:it": "Grotta Regina del Carso",
+    "tags.name:sl": "Kraljica Krasa",
+    "tags.natural": "cave_entrance",
+    "tags.wikidata": "Q35691702",
+    "tags.wikipedia": "it:Grotta Regina del Carso",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 320 m e dislivello 57.40 m",
+    "tags_new.ele": "194",
+    "tags_new.ref": "2328"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7329612,
+     45.7097773
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2832392723,
+    "osm_type": "node",
+    "ref_coords": [
+     13.732938,
+     45.709804
+    ],
+    "ref_distance": 3.5,
+    "ref_id": "97",
+    "tags.cave:old_ref": "842VG",
+    "tags.cave:ref": "86",
+    "tags.name": "Grotta di Prosecco",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 48 m e dislivello 8 m",
+    "tags_new.ele": "257",
+    "tags_new.ref": "86"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.5600119,
+     46.0733591
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 8042153806,
+    "osm_type": "node",
+    "ref_coords": [
+     12.560014,
+     46.073324
+    ],
+    "ref_distance": 3.9,
+    "ref_id": "8362",
+    "ref_unused_tags.name": "Bus della Volpe",
+    "tags.access": "yes",
+    "tags.ele": "315",
+    "tags.name": "Cavità n° 7691 - Bus della Volpe",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 49 m e dislivello 9 m",
+    "tags_new.ref": "7691"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7051157,
+     45.7529094
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1268487938,
+    "osm_type": "node",
+    "ref_coords": [
+     13.70508,
+     45.752884
+    ],
+    "ref_distance": 4.0,
+    "ref_id": "39",
+    "ref_unused_tags.name": "Grotta Azzurra",
+    "tags.alt_name:sl": "Pečina v Leskovcih",
+    "tags.cave:ref": "34",
+    "tags.name": "Grotta Azzurra / Zidaričeva pejca",
+    "tags.name:it": "Grotta Azzurra",
+    "tags.name:sl": "Zidaričeva pejca",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 235 m e dislivello 45.80 m",
+    "tags_new.ele": "252",
+    "tags_new.ref": "34"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6745577,
+     45.765102
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1179789375,
+    "osm_type": "node",
+    "ref_coords": [
+     13.67451,
+     45.76512
+    ],
+    "ref_distance": 4.2,
+    "ref_id": "906",
+    "ref_unused_tags.name": "Grotta Antonio Federico Lindner",
+    "tags.cave:ref": "829",
+    "tags.name": "Grotta Antonio Federico Lindner / Lisičja luknja",
+    "tags.name:it": "Grotta Antonio Federico Lindner",
+    "tags.name:sl": "Lisičja luknja",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/829-Grotta_Antonio_Federico_Lindner",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 825 m e dislivello 177.50 m",
+    "tags_new.ele": "179.40",
+    "tags_new.ref": "829"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.764572,
+     45.7099193
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1340062422,
+    "osm_type": "node",
+    "ref_coords": [
+     13.764566,
+     45.70988
+    ],
+    "ref_distance": 4.4,
+    "ref_id": "2",
+    "ref_unused_tags.name": "Grotta Gigante",
+    "tags.alt_name:sl": "Briška jama",
+    "tags.cave:ref": "2",
+    "tags.facebook": "https://www.facebook.com/GrottaGigante/",
+    "tags.name": "Grotta Gigante / Briškovska jama",
+    "tags.name:de": "Riesengrotte",
+    "tags.name:it": "Grotta Gigante",
+    "tags.name:sl": "Briškovska jama",
+    "tags.natural": "cave_entrance",
+    "tags.note": "Entrance",
+    "tags.opening_hours": "Tu-Su 09:00-17:00",
+    "tags.operator": "Società Alpina delle Giulie",
+    "tags.tourism": "attraction",
+    "tags.website": "http://www.grottagigante.it",
+    "tags.wikidata": "Q1547628",
+    "tags.wikipedia": "it:Grotta Gigante",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 719 m e dislivello 252 m",
+    "tags_new.ele": "275",
+    "tags_new.ref": "2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8514317,
+     45.6304136
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 618983974,
+    "osm_type": "node",
+    "ref_coords": [
+     13.851466,
+     45.630382
+    ],
+    "ref_distance": 4.4,
+    "ref_id": "48",
+    "ref_unused_tags.name": "Grotta Nera",
+    "tags.cave:old_ref": "140VG",
+    "tags.cave:ref": "43",
+    "tags.name": "Grotta Nera / Pečina nad Borštom",
+    "tags.name:it": "Grotta Nera",
+    "tags.name:sl": "Pečina nad Borštom",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://www.gssg.it/grotta-nera/",
+    "tags.wikidata": "Q3777006",
+    "tags.wikipedia": "it:Grotta Nera",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 69 m e dislivello 36 m",
+    "tags_new.ele": "390",
+    "tags_new.ref": "43"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6734856,
+     45.7587508
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2126603474,
+    "osm_type": "node",
+    "ref_coords": [
+     13.67348,
+     45.758707
+    ],
+    "ref_distance": 4.9,
+    "ref_id": "194",
+    "ref_unused_tags.name": "Caverna Pocala",
+    "tags.cave:ref": "173",
+    "tags.name": "Caverna Pocala / Pečina pod kalom",
+    "tags.name:it": "Caverna Pocala",
+    "tags.name:sl": "Pečina pod kalom",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/?var=cavita-simple&cave=173",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 137 m e dislivello 33.50 m",
+    "tags_new.ele": "135",
+    "tags_new.ref": "173"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7257896,
+     45.713321
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7366177749,
+    "osm_type": "node",
+    "ref_coords": [
+     13.725842,
+     45.71335
+    ],
+    "ref_distance": 5.2,
+    "ref_id": "1008",
+    "tags.ele": "244",
+    "tags.name": "Grotta presso Prosecco",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/926-Grotta_presso_Prosecco",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 72 m e dislivello 23 m",
+    "tags_new.ref": "926"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7213661,
+     45.7174739
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1847910352,
+    "osm_type": "node",
+    "ref_coords": [
+     13.721317,
+     45.717442
+    ],
+    "ref_distance": 5.2,
+    "ref_id": "552",
+    "ref_unused_tags.name": "Grotta del Bersaglio Militare",
+    "tags.cave:ref": "499",
+    "tags.name": "Grotta del Bersaglio Militare / Jama pri Skalovskih dolinah",
+    "tags.name:it": "Grotta del Bersaglio Militare",
+    "tags.name:sl": "Jama pri Skalovskih dolinah",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 63 m e dislivello 11.50 m",
+    "tags_new.ele": "241",
+    "tags_new.ref": "499"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9622751,
+     46.6022288
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7422286028,
+    "osm_type": "node",
+    "ref_coords": [
+     12.962229,
+     46.602186
+    ],
+    "ref_distance": 5.9,
+    "ref_id": "5198",
+    "ref_unused_tags.ele": "1755",
+    "ref_unused_tags.name": "Grotta 2ª del Pal Piccolo",
+    "tags.cave:ref": "4820",
+    "tags.ele": "1752",
+    "tags.name": "Grotta 2° del Pal Piccolo",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 1000 m e dislivello 49 m",
+    "tags_new.ref": "4820"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8867797,
+     45.6421724
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2302621684,
+    "osm_type": "node",
+    "ref_coords": [
+     13.886739,
+     45.642125
+    ],
+    "ref_distance": 6.2,
+    "ref_id": "823",
+    "ref_unused_tags.name": "Grotta sul Monte Cocusso",
+    "tags.cave:ref": "751",
+    "tags.ele": "493",
+    "tags.name": "Grotta sul Monte Cocusso (751)",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://catastogrotte.fvg.it/751",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 42 m e dislivello 17 m",
+    "tags_new.ref": "751"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6353612,
+     45.7964565
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2832445225,
+    "osm_type": "node",
+    "ref_coords": [
+     13.63545,
+     45.796483
+    ],
+    "ref_distance": 7.5,
+    "ref_id": "1519",
+    "ref_unused_tags.name": "Grotta Doerfler",
+    "tags.cave:old_ref": "3720VG",
+    "tags.cave:ref": "1409",
+    "tags.name": "Grotta Dörfler",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 63.50 m e dislivello 18.20 m",
+    "tags_new.ele": "171",
+    "tags_new.ref": "1409"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9404783,
+     46.2743098
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5798710125,
+    "osm_type": "node",
+    "ref_coords": [
+     12.9404,
+     46.27435
+    ],
+    "ref_distance": 7.5,
+    "ref_id": "2372",
+    "tags.cave:ref": "2214",
+    "tags.natural": "cave_entrance",
+    "tags.note": "entry directly below street",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 68 m e dislivello 14 m",
+    "tags_new.ele": "346",
+    "tags_new.name": "Risorgiva 1° nella Valle del Torrente Arzino",
+    "tags_new.ref": "2214"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6733909,
+     45.7589892
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 8325663293,
+    "osm_type": "node",
+    "ref_coords": [
+     13.673568,
+     45.758787
+    ],
+    "ref_distance": 26.4,
+    "ref_id": "193",
+    "ref_unused_tags.ele": "138",
+    "ref_unused_tags.name": "Caverna Pocala - Ingresso 2",
+    "tags.ele": "140",
+    "tags.name": "Cavernetta presso la Pocala",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/2298-Cavernetta_presso_la_Pocala",
+    "tags_new.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 137 m e dislivello 33.50 m",
+    "tags_new.ref": "173"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7092592,
+     45.7520132
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7640833576,
+    "osm_type": "node",
+    "ref_coords": [
+     13.709202,
+     45.751958
+    ],
+    "ref_distance": 7.6,
+    "ref_id": "472",
+    "tags.ele": "240",
+    "tags.name": "Grotta Cosmini",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/424-Grotta_Cosmini",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 124 m e dislivello 29.50 m",
+    "tags_new.ref": "424"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8708962,
+     45.6352764
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1620336268,
+    "osm_type": "node",
+    "ref_coords": [
+     13.870826,
+     45.635325
+    ],
+    "ref_distance": 7.7,
+    "ref_id": "72",
+    "ref_unused_tags.name": "Grotta Bac",
+    "tags.cave:old_ref": "49VG",
+    "tags.cave:ref": "64",
+    "tags.name": "Grotta Bak / Bač",
+    "tags.name:it": "Grotta Bac",
+    "tags.name:sl": "Bač",
+    "tags.natural": "cave_entrance",
+    "tags.website": "http://catastogrotte.fvg.it/64",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 130 m e dislivello 16 m",
+    "tags_new.ele": "390",
+    "tags_new.ref": "64"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.28223,
+     46.2579167
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 612129492,
+    "osm_type": "node",
+    "ref_coords": [
+     13.282231,
+     46.257991
+    ],
+    "ref_distance": 8.3,
+    "ref_id": "1022",
+    "ref_unused_tags.name": "Grotta Nuova di Villanova - Ingresso turistico",
+    "tags.email": "info@grottedivillanova.it",
+    "tags.name": "Grotta nuova di Villanova",
+    "tags.natural": "cave_entrance",
+    "tags.phone": "+39 432 787915",
+    "tags.website": "www.grottedivillanova.it",
+    "tags.wikidata": "Q3777135",
+    "tags.wikipedia": "it:Grotte di Villanova",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 8020 m e dislivello 296 m",
+    "tags_new.ele": "565",
+    "tags_new.ref": "939"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7150626,
+     45.767816
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1623542557,
+    "osm_type": "node",
+    "ref_coords": [
+     13.715008,
+     45.767892
+    ],
+    "ref_distance": 9.5,
+    "ref_id": "88",
+    "ref_unused_tags.name": "Grotta di Ternovizza",
+    "tags.cave:old_ref": "242VG",
+    "tags.cave:ref": "78",
+    "tags.name": "Grotta di Ternovizza / Jama v Hribih",
+    "tags.name:de": "Georg Schneider Höhle",
+    "tags.name:it": "Grotta di Ternovizza",
+    "tags.name:sl": "Jama v Hribih",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 470 m e dislivello 95.20 m",
+    "tags_new.ele": "275",
+    "tags_new.ref": "78"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4742648,
+     46.1855466
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 5534836261,
+    "osm_type": "node",
+    "ref_coords": [
+     13.474228,
+     46.185635
+    ],
+    "ref_distance": 10.2,
+    "ref_id": "351",
+    "tags.description:it": "ingresso e sviluppo orizzontale",
+    "tags.ele": "245",
+    "tags.name": "Suosteriova Jama",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 47 m e dislivello 25 m",
+    "tags_new.ref": "317"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6937043,
+     45.75595
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1544021209,
+    "osm_type": "node",
+    "ref_coords": [
+     13.693565,
+     45.755966
+    ],
+    "ref_distance": 11.0,
+    "ref_id": "163",
+    "ref_unused_tags.name": "Caverna Caterina",
+    "tags.alt_name:sl": "Katrna pejca",
+    "tags.cave:ref": "146",
+    "tags.name": "Caverna Caterina / Katra pečina",
+    "tags.name:it": "Caverna Caterina",
+    "tags.name:sl": "Katra pečina",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 80 m e dislivello 15.50 m",
+    "tags_new.ele": "198",
+    "tags_new.ref": "146"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.5746774,
+     45.8118651
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 3123705258,
+    "osm_type": "node",
+    "ref_coords": [
+     13.574777,
+     45.811773
+    ],
+    "ref_distance": 12.8,
+    "ref_id": "449",
+    "ref_unused_tags.name": "Caverna Generale Ricordi",
+    "tags.name": "Grotta Ricordi ex Fillinger 405/1064 VG",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 120 m e dislivello 31 m",
+    "tags_new.ele": "59",
+    "tags_new.ref": "405"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.654502,
+     45.7659035
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1533314147,
+    "osm_type": "node",
+    "ref_coords": [
+     13.654651,
+     45.765838
+    ],
+    "ref_distance": 13.7,
+    "ref_id": "25",
+    "ref_unused_tags.name": "Grotta delle Torri di Slivia - Ingresso artificiale",
+    "tags.alt_name:sl": "Pejca v Lascu",
+    "tags.cave:old_ref": "39VG",
+    "tags.cave:ref": "22",
+    "tags.name": "Grotta delle Torri di Slivia / Pejca v Lazcu",
+    "tags.name:it": "Grotta delle Torri di Slivia",
+    "tags.name:sl": "Pejca v Lazcu",
+    "tags.natural": "cave_entrance",
+    "tags.wikidata": "Q16562063",
+    "tags.wikipedia": "it:Grotta Torri di Slivia",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 554 m e dislivello 101.50 m",
+    "tags_new.ele": "115",
+    "tags_new.ref": "22"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6835415,
+     45.7408631
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7366637402,
+    "osm_type": "node",
+    "ref_coords": [
+     13.683683,
+     45.740784
+    ],
+    "ref_distance": 14.1,
+    "ref_id": "5280",
+    "ref_unused_tags.ele": "187",
+    "ref_unused_tags.name": "Grotta di Guerra del Monte Babiza - Ingresso A",
+    "tags.ele": "186",
+    "tags.name": "Grotta di Guerra del Monte Babiza (1° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/4894-Grotta_di_Guerra_del_Monte_Babiza",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 79 m e dislivello 10 m",
+    "tags_new.ref": "4894"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3499373,
+     46.2010798
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2272785526,
+    "osm_type": "node",
+    "ref_coords": [
+     13.350115,
+     46.201131
+    ],
+    "ref_distance": 14.8,
+    "ref_id": "334",
+    "ref_unused_tags.name": "Grotta sotto il Nahrad",
+    "tags.alt_name": "Grotta Formie",
+    "tags.name": "Grotta Furmie",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 115 m e dislivello 0 m",
+    "tags_new.ele": "575",
+    "tags_new.ref": "301"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.5987198,
+     46.1856659
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 612127991,
+    "osm_type": "node",
+    "ref_coords": [
+     12.598527,
+     46.185666
+    ],
+    "ref_distance": 14.9,
+    "ref_id": "859",
+    "ref_unused_tags.name": "Grotta della Vecchia Diga",
+    "tags.name": "Grotte vecchia diga",
+    "tags.natural": "cave_entrance",
+    "tags.source": "RAFVG CTRN5000_Orografia_top_shp_6708",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 1388 m e dislivello 82 m",
+    "tags_new.ele": "483",
+    "tags_new.ref": "786"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7911348,
+     45.6906092
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2832365461,
+    "osm_type": "node",
+    "ref_coords": [
+     13.791103,
+     45.69047
+    ],
+    "ref_distance": 15.7,
+    "ref_id": "33",
+    "ref_unused_tags.name": "Grotta Clementina",
+    "tags.access": "private",
+    "tags.name": "Grotta Clementina / Kalič",
+    "tags.name:it": "Grotta Clementina",
+    "tags.name:sl": "Kalič",
+    "tags.natural": "cave_entrance",
+    "tags.note": "Ingresso in area privata recintata",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 95 m e dislivello 14 m",
+    "tags_new.ele": "310",
+    "tags_new.ref": "30"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.8349236,
+     45.6502503
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2282238009,
+    "osm_type": "node",
+    "ref_coords": [
+     13.8349,
+     45.650101
+    ],
+    "ref_distance": 16.7,
+    "ref_id": "1",
+    "ref_unused_tags.name": "Grotta di Padriciano",
+    "tags.cave:old_ref": "12VG",
+    "tags.cave:ref": "1",
+    "tags.name": "Grotta di Padriciano / Jama na Hudem letu",
+    "tags.name:it": "Grotta di Padriciano",
+    "tags.name:sl": "Jama na Hudem letu",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 744 m e dislivello 242 m",
+    "tags_new.ele": "365",
+    "tags_new.ref": "1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.6162199,
+     45.7925547
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7372759819,
+    "osm_type": "node",
+    "ref_coords": [
+     13.616042,
+     45.792469
+    ],
+    "ref_distance": 16.8,
+    "ref_id": "1396",
+    "ref_unused_tags.ele": "252",
+    "ref_unused_tags.name": "Grotta di Coisce - Ingresso 3",
+    "tags.ele": "251",
+    "tags.name": "Grotta di Coisce (1° ingresso)",
+    "tags.natural": "cave_entrance",
+    "tags.source": "http://www.catastogrotte.fvg.it/1289-Grotta_di_Coisce",
+    "tags_new.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 67 m e dislivello 24 m",
+    "tags_new.ref": "1289"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.7260768,
+     45.732508
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 1621725371,
+    "osm_type": "node",
+    "ref_coords": [
+     13.725906,
+     45.732641
+    ],
+    "ref_distance": 19.9,
+    "ref_id": "37",
+    "ref_unused_tags.name": "Grotta dell'Orso",
+    "tags.cave:old_ref": "7VG",
+    "tags.cave:ref": "33",
+    "tags.name": "Grotta dell'orso / Gabrovška pečina",
+    "tags.name:it": "Grotta dell'orso",
+    "tags.name:sl": "Gabrovška pečina",
+    "tags.natural": "cave_entrance",
+    "tags.wikidata": "Q3777039",
+    "tags.wikipedia": "it:Grotta dell'Orso (Trieste)",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 175 m e dislivello 39 m",
+    "tags_new.ele": "211",
+    "tags_new.ref": "33"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.4728838,
+     46.1511525
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2586593281,
+    "osm_type": "node",
+    "ref_coords": [
+     13.473086,
+     46.151032
+    ],
+    "ref_distance": 20.6,
+    "ref_id": "4",
+    "ref_unused_tags.name": "Grotta di S. Giovanni d'Antro",
+    "tags.cave:old_ref": "43FR",
+    "tags.cave:ref": "4",
+    "tags.email": "agpnatisone@libero.it",
+    "tags.name": "San Giovanni d'Antro / Landarska jama",
+    "tags.name:it": "San Giovanni d'Antro",
+    "tags.name:sl": "Landarska jama",
+    "tags.natural": "cave_entrance",
+    "tags.note": "aperto nei mesi da Marzo a Novembre",
+    "tags.phone": "+39033907779367",
+    "tags.website": "http://www.grottadantro.it/",
+    "tags.wikidata": "Q3947267",
+    "tags.wikipedia": "it:San Giovanni d'Antro",
+    "tags_new.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 4000 m e dislivello 96 m",
+    "tags_new.ele": "350",
+    "tags_new.ref": "4"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.9642541,
+     46.6011
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 7422375976,
+    "osm_type": "node",
+    "ref_coords": [
+     12.964467,
+     46.60123
+    ],
+    "ref_distance": 21.8,
+    "ref_id": "7542",
+    "ref_unused_tags.ele": "1740",
+    "ref_unused_tags.name": "Abisso Taiada - Ingresso 2",
+    "tags.cave:ref": "6971",
+    "tags.ele": "1743",
+    "tags.name": "Abisso Taiada",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 106 m e dislivello 233 m",
+    "tags_new.ref": "6971"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.2895638,
+     46.2448853
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "modify",
+    "marker-color": "#0000ee",
+    "osm_id": 2137784411,
+    "osm_type": "node",
+    "ref_coords": [
+     13.28992,
+     46.244813
+    ],
+    "ref_distance": 28.6,
+    "ref_id": "124",
+    "ref_unused_tags.name": "Grotta di Viganti - Ingresso basso",
+    "tags.name": "Abisso Vigant",
+    "tags.natural": "cave_entrance",
+    "tags_new.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 1450 m e dislivello 252 m",
+    "tags_new.ele": "534",
+    "tags_new.ref": "110"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.280352,
+     46.25351
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -140,
+    "osm_type": "node",
+    "ref_id": "1023",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 8020 m e dislivello 296 m",
+    "tags.ele": "656",
+    "tags.name": "Grotta Nuova di Villanova - Ingresso vecchio",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "939"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.277683,
+     46.261264
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -141,
+    "osm_type": "node",
+    "ref_id": "1024",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 8020 m e dislivello 296 m",
+    "tags.ele": "483",
+    "tags.name": "Grotta Nuova di Villanova - Tunnel",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "939"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.916631,
+     46.260465
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -142,
+    "osm_type": "node",
+    "ref_id": "1028",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 159 m e dislivello 33 m",
+    "tags.ele": "496",
+    "tags.name": "Risorgiva 1 presso Mineres",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "942"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.405441,
+     46.149391
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -143,
+    "osm_type": "node",
+    "ref_id": "11",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 263 m e dislivello 56 m",
+    "tags.ele": "485",
+    "tags.name": "Foran di Landri",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "11"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.432944,
+     46.190555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -144,
+    "osm_type": "node",
+    "ref_id": "1113",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 131 m e dislivello 9 m",
+    "tags.ele": "684",
+    "tags.name": "Grotta 1° a SW di Montefosca",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1021"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.884755,
+     46.250205
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -145,
+    "osm_type": "node",
+    "ref_id": "1214",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 41 m e dislivello 3 m",
+    "tags.ele": "516",
+    "tags.name": "Risorgiva 1° presso Pradis",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1116"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.909103,
+     46.264279
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -146,
+    "osm_type": "node",
+    "ref_id": "1241",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 575 m e dislivello 27 m",
+    "tags.ele": "490",
+    "tags.name": "Grotta 2° nella Forra del Rio Molin",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1142"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.401724,
+     46.14672
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -147,
+    "osm_type": "node",
+    "ref_id": "137",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 761 m e dislivello 90 m",
+    "tags.ele": "333",
+    "tags.name": "Foran des Aganis",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "122"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.883064,
+     46.250669
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -148,
+    "osm_type": "node",
+    "ref_id": "1381",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 131 m e dislivello 15 m",
+    "tags.ele": "542",
+    "tags.name": "Inghiottitoio a NW di Gerchia - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1278"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.882667,
+     46.250526
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -149,
+    "osm_type": "node",
+    "ref_id": "1382",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 131 m e dislivello 15 m",
+    "tags.ele": "542",
+    "tags.name": "Inghiottitoio a NW di Gerchia",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1278"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.883408,
+     46.250819
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -150,
+    "osm_type": "node",
+    "ref_id": "1383",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 131 m e dislivello 15 m",
+    "tags.ele": "542",
+    "tags.name": "Inghiottitoio a NW di Gerchia - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1278"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.578745,
+     46.261427
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -151,
+    "osm_type": "node",
+    "ref_id": "143",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 4322 m e dislivello 180 m",
+    "tags.ele": "1113",
+    "tags.name": "Landri Scur",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "127"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.45931,
+     46.3749
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -152,
+    "osm_type": "node",
+    "ref_id": "1453",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 135 m e dislivello 385 m",
+    "tags.ele": "1785",
+    "tags.name": "Abisso Mario Novelli",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1346"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.45934,
+     46.37414
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -153,
+    "osm_type": "node",
+    "ref_id": "1454",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 150 m e dislivello 125 m",
+    "tags.ele": "1840",
+    "tags.name": "Grotta del Ghiaccio",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1347"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.459428,
+     46.387428
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -154,
+    "osm_type": "node",
+    "ref_id": "1479",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 1637 m e dislivello 94 m",
+    "tags.ele": "1230",
+    "tags.name": "Grotta sopra le Moelis",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1371"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.731734,
+     46.358728
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -155,
+    "osm_type": "node",
+    "ref_id": "159",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 1280 m e dislivello 230 m",
+    "tags.ele": "722",
+    "tags.name": "Fontanon del Riu Neri",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "142"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.873626,
+     46.247746
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -156,
+    "osm_type": "node",
+    "ref_id": "1714",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 47 m e dislivello 6 m",
+    "tags.ele": "598",
+    "tags.name": "Risorgiva presso Battei",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1590"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.916301,
+     46.260621
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -157,
+    "osm_type": "node",
+    "ref_id": "1717",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 350 m e dislivello 10 m",
+    "tags.ele": "500",
+    "tags.name": "Risorgiva 2 presso Mineres",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1593"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.505877,
+     46.131296
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -158,
+    "osm_type": "node",
+    "ref_id": "172",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 197 m e dislivello 17 m",
+    "tags.ele": "167",
+    "tags.name": "Ciastita Jama",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "155"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.992754,
+     46.588339
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -159,
+    "osm_type": "node",
+    "ref_id": "185",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 380 m e dislivello 48 m",
+    "tags.ele": "970",
+    "tags.name": "Grotta presso la Centrale di Timau",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "165"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.774496,
+     46.22379
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -160,
+    "osm_type": "node",
+    "ref_id": "187",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 202 m e dislivello 21.50 m",
+    "tags.ele": "360",
+    "tags.name": "Fornat di Meduno",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "167"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.486747,
+     46.149561
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -161,
+    "osm_type": "node",
+    "ref_id": "2105",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41.50 m e dislivello 2 m",
+    "tags.ele": "164",
+    "tags.name": "Grotta sotto Ponteacco",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "1960"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.949931,
+     46.600629
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -162,
+    "osm_type": "node",
+    "ref_id": "2245",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 456 m e dislivello 72 m",
+    "tags.ele": "1575",
+    "tags.name": "Grotta Palpiccola - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2090"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.409687,
+     46.40411
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -163,
+    "osm_type": "node",
+    "ref_id": "23",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 60 m e dislivello 6 m",
+    "tags.ele": "705",
+    "tags.name": "Fontanon di Piani",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "21"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.540365,
+     46.112061
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -164,
+    "osm_type": "node",
+    "ref_id": "2403",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2 m",
+    "tags.ele": "240",
+    "tags.name": "Grotta a SW di Altana",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2244"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.377545,
+     46.181652
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -165,
+    "osm_type": "node",
+    "ref_id": "2535",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1400 m e dislivello 60.50 m",
+    "tags.ele": "690",
+    "tags.name": "Grotta di Canebola",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2370"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.950524,
+     46.236398
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -166,
+    "osm_type": "node",
+    "ref_id": "258",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 554 m e dislivello 60 m",
+    "tags.ele": "510",
+    "tags.name": "Ciase de lis Aganis",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "229"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.845651,
+     45.632123
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -167,
+    "osm_type": "node",
+    "ref_id": "2596",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 868 m e dislivello 137 m",
+    "tags.ele": "350",
+    "tags.name": "Grotta Mary",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2428"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.3429,
+     46.18975
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -168,
+    "osm_type": "node",
+    "ref_id": "263",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 106 m e dislivello 11.50 m",
+    "tags.ele": "430",
+    "tags.name": "Caverna di Landri",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "234"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.814377,
+     46.333724
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -169,
+    "osm_type": "node",
+    "ref_id": "264",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 120 m e dislivello 20.50 m",
+    "tags.ele": "650",
+    "tags.name": "Fontanon dal Toff",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "235"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.22117,
+     46.260965
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -170,
+    "osm_type": "node",
+    "ref_id": "2666",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 105 m e dislivello 0 m",
+    "tags.ele": "535",
+    "tags.name": "Antro della Volpe",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2494"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.484003,
+     46.132532
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -171,
+    "osm_type": "node",
+    "ref_id": "267",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 70 m e dislivello 4 m",
+    "tags.ele": "170",
+    "tags.name": "Grotta di S. Pietro al Natisone",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "238"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.281522,
+     46.247641
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -172,
+    "osm_type": "node",
+    "ref_id": "268",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 55 m e dislivello 10 m",
+    "tags.ele": "625",
+    "tags.name": "Ta Pot Korito Jama",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "239"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.276534,
+     46.272659
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -173,
+    "osm_type": "node",
+    "ref_id": "269",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 107 m e dislivello 27.50 m",
+    "tags.ele": "445",
+    "tags.name": "Grotta pod Jama di Lusevera",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "240"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.246578,
+     46.251557
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -174,
+    "osm_type": "node",
+    "ref_id": "2716",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 75 m e dislivello 0 m",
+    "tags.ele": "570",
+    "tags.name": "Grotta Meandrosa di Stella",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2539"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.309585,
+     46.247115
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -175,
+    "osm_type": "node",
+    "ref_id": "284",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 53 m e dislivello 9 m",
+    "tags.ele": "338",
+    "tags.name": "Buse da l'Ors",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "255"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.189896,
+     46.261014
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -176,
+    "osm_type": "node",
+    "ref_id": "292",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 41 m e dislivello 2 m",
+    "tags.ele": "540",
+    "tags.name": "La Foranate",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "262"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.441792,
+     46.373556
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -177,
+    "osm_type": "node",
+    "ref_id": "2985",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 560 m e dislivello 760 m",
+    "tags.ele": "1942",
+    "tags.name": "S 20",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "2797"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.883175,
+     45.617999
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -178,
+    "osm_type": "node",
+    "ref_id": "323",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 209 m e dislivello 26 m",
+    "tags.ele": "352",
+    "tags.name": "Grotta delle Gallerie - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "290"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.876737,
+     46.24613
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -179,
+    "osm_type": "node",
+    "ref_id": "3232",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 76 m e dislivello 25 m",
+    "tags.ele": "592",
+    "tags.name": "Meandro a S di Battei",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "3026"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.438576,
+     46.380109
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -180,
+    "osm_type": "node",
+    "ref_id": "330",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 44 m e dislivello 56 m",
+    "tags.ele": "1800",
+    "tags.name": "Grotta con ghiaccio sotto il Foran del Muss",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "297"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.869132,
+     45.617264
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -181,
+    "osm_type": "node",
+    "ref_id": "348",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 60 m e dislivello 12 m",
+    "tags.ele": "276",
+    "tags.name": "Grotta sulla parete NW del Monte Carso",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "315"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.913373,
+     46.263545
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -182,
+    "osm_type": "node",
+    "ref_id": "3491",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 145 m e dislivello 20 m",
+    "tags.ele": "539",
+    "tags.name": "Risorgiva 4 presso Mineres",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "3272"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.515619,
+     46.3853
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -183,
+    "osm_type": "node",
+    "ref_id": "3507",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 72 m e dislivello 85 m",
+    "tags.ele": "1917",
+    "tags.name": "Pozzo 58º sul Monte Robon",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "3288"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.456067,
+     46.445108
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -184,
+    "osm_type": "node",
+    "ref_id": "370",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 82 m e dislivello 31 m",
+    "tags.ele": "1110",
+    "tags.name": "Grotta di Val Saisera",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "335"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.508297,
+     46.384135
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -185,
+    "osm_type": "node",
+    "ref_id": "3715",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 112 m e dislivello 82 m",
+    "tags.ele": "1700",
+    "tags.name": "Pozzo 2° sopra Pian delle Lope",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "3466"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.425042,
+     46.379105
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -186,
+    "osm_type": "node",
+    "ref_id": "3762",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 3465 m e dislivello 441 m",
+    "tags.ele": "1977",
+    "tags.name": "Abisso Giovanni Mornig",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "3511"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.705364,
+     45.752723
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -187,
+    "osm_type": "node",
+    "ref_id": "38",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 235 m e dislivello 45.80 m",
+    "tags.ele": "254",
+    "tags.name": "Grotta Azzurra - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "34"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.839545,
+     46.24819
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -188,
+    "osm_type": "node",
+    "ref_id": "385",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 52 m e dislivello 11.60 m",
+    "tags.ele": "724",
+    "tags.name": "Grotta Sorgente dell'Agar",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "350"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.839618,
+     46.247984
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -189,
+    "osm_type": "node",
+    "ref_id": "387",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 52 m e dislivello 11.60 m",
+    "tags.ele": "728",
+    "tags.name": "Grotta Sorgente dell'Agar - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "350"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.83056,
+     46.243114
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -190,
+    "osm_type": "node",
+    "ref_id": "388",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 41.50 m e dislivello 6.60 m",
+    "tags.ele": "816",
+    "tags.name": "Fontanon del Volt",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "351"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.83052,
+     46.243132
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -191,
+    "osm_type": "node",
+    "ref_id": "389",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41.50 m e dislivello 6.60 m",
+    "tags.ele": "816",
+    "tags.name": "Fontanon del Volt - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "351"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.846127,
+     46.251716
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -192,
+    "osm_type": "node",
+    "ref_id": "391",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 52.60 m e dislivello 5.70 m",
+    "tags.ele": "771",
+    "tags.name": "Fontana della Ciuta",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "353"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.797011,
+     46.258448
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -193,
+    "osm_type": "node",
+    "ref_id": "393",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 50 m e dislivello 0 m",
+    "tags.ele": "475",
+    "tags.name": "Busate dal Ferol",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "355"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.780839,
+     46.262021
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -194,
+    "osm_type": "node",
+    "ref_id": "4289",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 144 m e dislivello 10 m",
+    "tags.ele": "380",
+    "tags.name": "Grotta presso Borgata Ferrara",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "3988"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.005805,
+     46.413611
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -195,
+    "osm_type": "node",
+    "ref_id": "4409",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 50 m e dislivello 25 m",
+    "tags.ele": "338",
+    "tags.name": "Grotta di Caneva",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4094"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.047555,
+     46.345944
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -196,
+    "osm_type": "node",
+    "ref_id": "4411",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 78 m e dislivello 63.50 m",
+    "tags.ele": "415",
+    "tags.name": "Grotta di Rio Vaat",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4096"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.399222,
+     46.219472
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -197,
+    "osm_type": "node",
+    "ref_id": "4488",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 135 m e dislivello 15 m",
+    "tags.ele": "600",
+    "tags.name": "Grotta presso Stalla Scurc di Prossenicco",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4169"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.357203,
+     46.162929
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -198,
+    "osm_type": "node",
+    "ref_id": "452",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 215 m e dislivello 6 m",
+    "tags.ele": "203",
+    "tags.name": "Grotta della Cava di Papipano",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "408"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.45943,
+     46.37386
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -199,
+    "osm_type": "node",
+    "ref_id": "4561",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 155 m e dislivello 230 m",
+    "tags.ele": "1840",
+    "tags.name": "Meandro del Bila Pec",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4242"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.577474,
+     45.817853
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -200,
+    "osm_type": "node",
+    "ref_id": "460",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 77.50 m e dislivello 12.50 m",
+    "tags.ele": "52",
+    "tags.name": "Caverna dell'Infermeria - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "414"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.597513,
+     45.796663
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -201,
+    "osm_type": "node",
+    "ref_id": "4642",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 46 m e dislivello 7 m",
+    "tags.ele": "106",
+    "tags.name": "Grotta di Guerra di Medeazza - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4315"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.597663,
+     45.796809
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -202,
+    "osm_type": "node",
+    "ref_id": "4643",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 46 m e dislivello 7 m",
+    "tags.ele": "110",
+    "tags.name": "Grotta di Guerra di Medeazza - Ingresso 4",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4315"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.454579,
+     46.38174
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -203,
+    "osm_type": "node",
+    "ref_id": "4667",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 214 m e dislivello 60 m",
+    "tags.ele": "1676",
+    "tags.name": "Principe di Piemonte",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4337"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.454885,
+     46.38174
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -204,
+    "osm_type": "node",
+    "ref_id": "4668",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 214 m e dislivello 60 m",
+    "tags.ele": "1669",
+    "tags.name": "Principe di Piemonte - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4337"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.240425,
+     46.301539
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -205,
+    "osm_type": "node",
+    "ref_id": "4698",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 60 m e dislivello 29 m",
+    "tags.ele": "1337",
+    "tags.name": "Meandro a SW della Casera Tasaoro",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4366"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.37489,
+     46.207084
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -206,
+    "osm_type": "node",
+    "ref_id": "4705",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 57 m e dislivello 3 m",
+    "tags.ele": "620",
+    "tags.name": "Grotta 2 in località Podlodinz",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4373"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.425159,
+     46.150623
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -207,
+    "osm_type": "node",
+    "ref_id": "4921",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 416 m e dislivello 38 m",
+    "tags.ele": "692",
+    "tags.name": "Grotta Faet",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4565"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.229074,
+     46.555088
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -208,
+    "osm_type": "node",
+    "ref_id": "4935",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 48 m e dislivello 30 m",
+    "tags.ele": "2030",
+    "tags.name": "Grotta in parete presso il Bivacco Lomasti",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4575"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.953907,
+     46.602194
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -209,
+    "osm_type": "node",
+    "ref_id": "4938",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41 m e dislivello 11 m",
+    "tags.ele": "1718",
+    "tags.name": "Grotta 2° sul Sentiero del Pal Piccolo",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4578"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.37725,
+     46.250722
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -210,
+    "osm_type": "node",
+    "ref_id": "4965",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 103 m e dislivello 13 m",
+    "tags.ele": "674",
+    "tags.name": "Grotta sopra il Rio Boncic",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4603"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.934657,
+     46.26594
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -211,
+    "osm_type": "node",
+    "ref_id": "4968",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 43 m e dislivello 0 m",
+    "tags.ele": "400",
+    "tags.name": "Grotta Damiano",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4606"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.960723,
+     46.60497
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -212,
+    "osm_type": "node",
+    "ref_id": "5206",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 41.50 m e dislivello 41.50 m",
+    "tags.ele": "1818",
+    "tags.name": "Caverna del Ghiaccio",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4827"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.473456,
+     46.151208
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -213,
+    "osm_type": "node",
+    "ref_id": "5227",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 51.40 m e dislivello 11 m",
+    "tags.ele": "335",
+    "tags.name": "Fessura presso S. Giovanni d'Antro",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4848"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.350527,
+     46.238666
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -214,
+    "osm_type": "node",
+    "ref_id": "53",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 90 m e dislivello 3 m",
+    "tags.ele": "849",
+    "tags.name": "Grotta di Taipana",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "46"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.241465,
+     46.555567
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -215,
+    "osm_type": "node",
+    "ref_id": "5373",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 96 m e dislivello 29.80 m",
+    "tags.ele": "2015",
+    "tags.name": "Grotta a N del Monte Cavallo di Pontebba - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4984"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.241491,
+     46.555567
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -216,
+    "osm_type": "node",
+    "ref_id": "5374",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41.20 m e dislivello 6 m",
+    "tags.ele": "2015",
+    "tags.name": "Grotta 2ª a N del Monte Cavallo di Pontebba",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "4985"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.314409,
+     46.330932
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -217,
+    "osm_type": "node",
+    "ref_id": "5412",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 103 m e dislivello 28.70 m",
+    "tags.ele": "1438",
+    "tags.name": "Grotta del Frigo",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5019"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.467853,
+     46.373854
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -218,
+    "osm_type": "node",
+    "ref_id": "5593",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 560 m e dislivello 195 m",
+    "tags.ele": "1855",
+    "tags.name": "Abisso Pack Man",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5177"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.568779,
+     46.177195
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -219,
+    "osm_type": "node",
+    "ref_id": "5626",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 335 m e dislivello 0 m",
+    "tags.ele": "518",
+    "tags.name": "La Mitica",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5207"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.873521,
+     46.247179
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -220,
+    "osm_type": "node",
+    "ref_id": "581",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 79 m e dislivello 14.20 m",
+    "tags.ele": "600",
+    "tags.name": "Cevola di Battei",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "520"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.885061,
+     46.2493
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -221,
+    "osm_type": "node",
+    "ref_id": "5915",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 53.50 m e dislivello 0.50 m",
+    "tags.ele": "510",
+    "tags.name": "Buco del Tasso",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5486"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.87544,
+     46.247188
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -222,
+    "osm_type": "node",
+    "ref_id": "5930",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 140 m e dislivello 25 m",
+    "tags.ele": "604",
+    "tags.name": "Grotta Battei",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5501"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.426327,
+     46.386563
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -223,
+    "osm_type": "node",
+    "ref_id": "6140",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 90 m e dislivello 75 m",
+    "tags.ele": "1490",
+    "tags.name": "Lazzaro 2 la Vendetta",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5693"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.883791,
+     46.247955
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -224,
+    "osm_type": "node",
+    "ref_id": "636",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 3 m",
+    "tags.ele": "530",
+    "tags.name": "Caverna Mainarda",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "574"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.213293,
+     46.553853
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -225,
+    "osm_type": "node",
+    "ref_id": "6361",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 50 m e dislivello 20 m",
+    "tags.ele": "1920",
+    "tags.name": "Pozzo CRS 1 96",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5904"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.512489,
+     46.203441
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -226,
+    "osm_type": "node",
+    "ref_id": "6399",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 56 m e dislivello 15 m",
+    "tags.ele": "1194",
+    "tags.name": "Caverna Testata",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "5936"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.24253,
+     46.536342
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -227,
+    "osm_type": "node",
+    "ref_id": "6774",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 1303 m e dislivello 100.60 m",
+    "tags.ele": "1190",
+    "tags.name": "Sorgiva del Rio Pricotic",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6285"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.522117,
+     46.123761
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -228,
+    "osm_type": "node",
+    "ref_id": "695",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 178 m e dislivello 13.30 m",
+    "tags.ele": "170",
+    "tags.name": "Grotta di Osgnetto",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "633"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.844097,
+     46.242587
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -229,
+    "osm_type": "node",
+    "ref_id": "6981",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 79 m e dislivello 38 m",
+    "tags.ele": "929",
+    "tags.name": "The Flintstones 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6472"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.289967,
+     46.341787
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -230,
+    "osm_type": "node",
+    "ref_id": "7",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 205 m e dislivello 51 m",
+    "tags.ele": "675",
+    "tags.name": "Grotta di Barman",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.322703,
+     46.329816
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -231,
+    "osm_type": "node",
+    "ref_id": "7013",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 68 m e dislivello 46 m",
+    "tags.ele": "1406",
+    "tags.name": "Grotta Tos 2 - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6503"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.021679,
+     46.30224
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -232,
+    "osm_type": "node",
+    "ref_id": "7067",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 230 m e dislivello 37.50 m",
+    "tags.ele": "393",
+    "tags.name": "Risorgiva del Monte Amula",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6553"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.239903,
+     46.542639
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -233,
+    "osm_type": "node",
+    "ref_id": "7129",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 57.70 m e dislivello 4.50 m",
+    "tags.ele": "1570",
+    "tags.name": "Caverna 2° a SW di Creta di Pricot",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6611"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834323,
+     46.241755
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -234,
+    "osm_type": "node",
+    "ref_id": "7209",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 41 m e dislivello 0 m",
+    "tags.ele": "897",
+    "tags.name": "Cavernette presso il Volt",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6687"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834287,
+     46.241691
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -235,
+    "osm_type": "node",
+    "ref_id": "7210",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 41 m e dislivello 0 m",
+    "tags.ele": "901",
+    "tags.name": "Cavernette presso il Volt - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6687"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834158,
+     46.241671
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -236,
+    "osm_type": "node",
+    "ref_id": "7211",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 41 m e dislivello 0 m",
+    "tags.ele": "903",
+    "tags.name": "Cavernette presso il Volt - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6687"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834262,
+     46.241664
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -237,
+    "osm_type": "node",
+    "ref_id": "7212",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 41 m e dislivello 0 m",
+    "tags.ele": "901",
+    "tags.name": "Cavernette presso il Volt - Ingresso 4",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "6687"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.838293,
+     45.641761
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -238,
+    "osm_type": "node",
+    "ref_id": "78",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 128 m e dislivello 17 m",
+    "tags.ele": "366",
+    "tags.name": "Grotta ad W di Basovizza",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "68"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.963218,
+     46.419973
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -239,
+    "osm_type": "node",
+    "ref_id": "7862",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 63 m e dislivello 4 m",
+    "tags.ele": "450",
+    "tags.name": "Fontanon della Vinadia",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7270"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.530175,
+     46.111811
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -240,
+    "osm_type": "node",
+    "ref_id": "7870",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 70 m e dislivello 3 m",
+    "tags.ele": "260",
+    "tags.name": "Grotta delle Cavallette",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7278"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.829758,
+     46.237798
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -241,
+    "osm_type": "node",
+    "ref_id": "7895",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 85 m e dislivello 21.30 m",
+    "tags.ele": "948",
+    "tags.name": "Ciuc di Ploc",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7301"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.829936,
+     46.237874
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -242,
+    "osm_type": "node",
+    "ref_id": "7898",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 85 m e dislivello 21.30 m",
+    "tags.ele": "953",
+    "tags.name": "Ciuc di Ploc - Ingresso 4",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7301"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834539,
+     46.241552
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -243,
+    "osm_type": "node",
+    "ref_id": "7950",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 53 m e dislivello 8 m",
+    "tags.ele": "903",
+    "tags.name": "La Claupa 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7347"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834372,
+     46.24118
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -244,
+    "osm_type": "node",
+    "ref_id": "7951",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 53 m e dislivello 8 m",
+    "tags.ele": "907",
+    "tags.name": "La Claupa 3 - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7347"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834475,
+     46.241533
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -245,
+    "osm_type": "node",
+    "ref_id": "7952",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 53 m e dislivello 8 m",
+    "tags.ele": "904",
+    "tags.name": "La Claupa 3 - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7347"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.50178,
+     46.384194
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -246,
+    "osm_type": "node",
+    "ref_id": "7967",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 62 m e dislivello 3 m",
+    "tags.ele": "1730",
+    "tags.name": "Meandro dei Traumi facciali",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7354"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.461861,
+     46.527974
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -247,
+    "osm_type": "node",
+    "ref_id": "7972",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 52 m e dislivello 18.70 m",
+    "tags.ele": "1208",
+    "tags.name": "Grotta di Malga Priu",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7357"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.886745,
+     46.246363
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -248,
+    "osm_type": "node",
+    "ref_id": "8",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 63 m e dislivello 5 m",
+    "tags.ele": "523",
+    "tags.name": "Grotte Verdi di Pradis",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "8"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.459165,
+     46.377193
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -249,
+    "osm_type": "node",
+    "ref_id": "8069",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 122 m e dislivello 326 m",
+    "tags.ele": "1700",
+    "tags.name": "Abisso Rolo",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7450"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.649924,
+     45.765072
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -250,
+    "osm_type": "node",
+    "ref_id": "8076",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 44 m e dislivello 8 m",
+    "tags.ele": "103",
+    "tags.name": "Grotta nella Breccia di Sistiana - Ingresso A",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7457"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.424603,
+     46.380851
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -251,
+    "osm_type": "node",
+    "ref_id": "8106",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1196 m e dislivello 221 m",
+    "tags.ele": "1908",
+    "tags.name": "Abisso Stefano Procopio",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7480"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.345173,
+     46.181554
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -252,
+    "osm_type": "node",
+    "ref_id": "8109",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 115 m e dislivello 7.20 m",
+    "tags.ele": "600",
+    "tags.name": "Meandro sotto Porzus",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7483"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.399765,
+     46.293169
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -253,
+    "osm_type": "node",
+    "ref_id": "8201",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 76.10 m e dislivello 37.40 m",
+    "tags.ele": "1220",
+    "tags.name": "Grotta 2 in Val dal Diach",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7553"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.502485,
+     46.382646
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -254,
+    "osm_type": "node",
+    "ref_id": "8202",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 80 m e dislivello 55 m",
+    "tags.ele": "1801",
+    "tags.name": "Grotta dei Pirati",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7554"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.377014,
+     46.290534
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -255,
+    "osm_type": "node",
+    "ref_id": "8203",
+    "tags.description": "Ingresso orizzontale a riparo sottoroccia, sviluppo planimetrico 68.80 m e dislivello 8.30 m",
+    "tags.ele": "1385",
+    "tags.name": "Andre de Sant'Antoni",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7555"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.345454,
+     46.274371
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -256,
+    "osm_type": "node",
+    "ref_id": "8205",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 42.30 m e dislivello 14.40 m",
+    "tags.ele": "1092",
+    "tags.name": "Cambre Maria Bon",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7557"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.83169,
+     46.244405
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -257,
+    "osm_type": "node",
+    "ref_id": "8207",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 139.20 m e dislivello 59.20 m",
+    "tags.ele": "782",
+    "tags.name": "Bus dal Nano",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7558"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834808,
+     46.242295
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -258,
+    "osm_type": "node",
+    "ref_id": "8210",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 206 m e dislivello 23 m",
+    "tags.ele": "887",
+    "tags.name": "La Claupa - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7559"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.835056,
+     46.242264
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -259,
+    "osm_type": "node",
+    "ref_id": "8211",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 206 m e dislivello 23 m",
+    "tags.ele": "889",
+    "tags.name": "La Claupa - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7559"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.835083,
+     46.242219
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -260,
+    "osm_type": "node",
+    "ref_id": "8212",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 206 m e dislivello 23 m",
+    "tags.ele": "889",
+    "tags.name": "La Claupa - Ingresso 4",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7559"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.834963,
+     46.24264
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -261,
+    "osm_type": "node",
+    "ref_id": "8213",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 206 m e dislivello 23 m",
+    "tags.ele": "889",
+    "tags.name": "La Claupa - Ingresso 5",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7559"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.835076,
+     46.243056
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -262,
+    "osm_type": "node",
+    "ref_id": "8214",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 206 m e dislivello 23 m",
+    "tags.ele": "860",
+    "tags.name": "La Claupa - Ingresso 6",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7559"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.442329,
+     46.360601
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -263,
+    "osm_type": "node",
+    "ref_id": "8240",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 51 m",
+    "tags.ele": "2445",
+    "tags.name": "Pot11 - Ingresso in parete",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7583"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.594584,
+     45.80723
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -264,
+    "osm_type": "node",
+    "ref_id": "8243",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 63.50 m e dislivello 7.50 m",
+    "tags.ele": "134",
+    "tags.name": "Caverna del Tenente Weber - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7585"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.594443,
+     45.807201
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -265,
+    "osm_type": "node",
+    "ref_id": "8244",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 63.50 m e dislivello 7.50 m",
+    "tags.ele": "132",
+    "tags.name": "Caverna del Tenente Weber - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7585"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.992462,
+     46.588468
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -266,
+    "osm_type": "node",
+    "ref_id": "8262",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 62 m e dislivello 31 m",
+    "tags.ele": "1035",
+    "tags.name": "Grotta dell'Aquila",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7600"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.888797,
+     46.247643
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -267,
+    "osm_type": "node",
+    "ref_id": "831",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 766 m e dislivello 45 m",
+    "tags.ele": "510",
+    "tags.name": "Inghiottitoio dell'Osteria di Gerchia",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "759"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.022538,
+     46.295852
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -268,
+    "osm_type": "node",
+    "ref_id": "8310",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 43 m e dislivello 18 m",
+    "tags.ele": "405",
+    "tags.name": "Grotta sul Leale",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7645"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.615826,
+     46.172444
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -269,
+    "osm_type": "node",
+    "ref_id": "8361",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 187.50 m e dislivello 22 m",
+    "tags.ele": "450",
+    "tags.name": "Grotta di Siviledo",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7690"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.436401,
+     46.378387
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -270,
+    "osm_type": "node",
+    "ref_id": "8460",
+    "tags.description": "Ingresso orizzontale a fessura, sviluppo planimetrico 4570 m e dislivello 938 m",
+    "tags.ele": "1835",
+    "tags.name": "Dobra P",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7780"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.428994,
+     46.38545
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -271,
+    "osm_type": "node",
+    "ref_id": "8469",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 401 m e dislivello 42 m",
+    "tags.ele": "1580",
+    "tags.name": "Grotta Clemente - Grotta Clemente",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7788"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.439354,
+     46.38855
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -272,
+    "osm_type": "node",
+    "ref_id": "8513",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 67 m e dislivello 23 m",
+    "tags.ele": "1245",
+    "tags.name": "Sorgiva sotto Casera Goriuda - Sorgiva sotto Casera Goriuda",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7827"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.435312,
+     46.385104
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -273,
+    "osm_type": "node",
+    "ref_id": "8519",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 70 m e dislivello 5 m",
+    "tags.ele": "1540",
+    "tags.name": "Grotta Dormigliona",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7834"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.981888,
+     46.58863
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -274,
+    "osm_type": "node",
+    "ref_id": "8541",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 49 m e dislivello 14 m",
+    "tags.ele": "1025",
+    "tags.name": "TM 02 - TM 02",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7855"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.59775,
+     46.186138
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -275,
+    "osm_type": "node",
+    "ref_id": "860",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 1388 m e dislivello 82 m",
+    "tags.ele": "458",
+    "tags.name": "Grotta della Vecchia Diga - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "786"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.48633,
+     46.392324
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -276,
+    "osm_type": "node",
+    "ref_id": "8604",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 58 m e dislivello 7 m",
+    "tags.ele": "1182",
+    "tags.name": "Grotta del Buco del Cucco - 4",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7908"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.484108,
+     46.380712
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -277,
+    "osm_type": "node",
+    "ref_id": "8621",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 73 m e dislivello 30 m",
+    "tags.ele": "1720",
+    "tags.name": "Grotta 3ª presso il Campo degli Alpini - C",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7919"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.847515,
+     46.237774
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -278,
+    "osm_type": "node",
+    "ref_id": "8687",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 45 m e dislivello 3.30 m",
+    "tags.ele": "1073",
+    "tags.name": "Cjamarates 1",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7954"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.847274,
+     46.237643
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -279,
+    "osm_type": "node",
+    "ref_id": "8688",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 3.30 m",
+    "tags.ele": "1076",
+    "tags.name": "Cjamarates 1 - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7954"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.847127,
+     46.237749
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -280,
+    "osm_type": "node",
+    "ref_id": "8689",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 45 m e dislivello 3.30 m",
+    "tags.ele": "1072",
+    "tags.name": "Cjamarates 1 - Ingresso 3",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7954"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.847216,
+     46.237786
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -281,
+    "osm_type": "node",
+    "ref_id": "8690",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 3.30 m",
+    "tags.ele": "1071",
+    "tags.name": "Cjamarates 1 - Ingresso 4",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7954"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.538761,
+     46.111555
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -282,
+    "osm_type": "node",
+    "ref_id": "8696",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 67 m e dislivello 4 m",
+    "tags.ele": "249",
+    "tags.name": "Grotta 2ª a W di Altana",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "7958"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.882986,
+     46.246293
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -283,
+    "osm_type": "node",
+    "ref_id": "872",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2413 m e dislivello 237 m",
+    "tags.ele": "524",
+    "tags.name": "Grotte di La Val - Ingresso 2",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "798"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.882863,
+     46.246102
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -284,
+    "osm_type": "node",
+    "ref_id": "873",
+    "tags.description": "Ingresso orizzontale a meandro, sviluppo planimetrico 2413 m e dislivello 237 m",
+    "tags.ele": "524",
+    "tags.name": "Grotte di La Val",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "798"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.185212,
+     46.565418
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -285,
+    "osm_type": "node",
+    "ref_id": "8738",
+    "tags.description": "Ingresso orizzontale a cavernetta, sviluppo planimetrico 50 m e dislivello 20 m",
+    "tags.ele": "1685",
+    "tags.name": "Inghiottitoio sotto Casera Val Dolce",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "8000"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.293898,
+     46.229647
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -286,
+    "osm_type": "node",
+    "ref_id": "883",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 45 m e dislivello 37 m",
+    "tags.ele": "545",
+    "tags.name": "Grotta 3 a SW di Monteprato",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "808"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.697748,
+     45.777389
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -287,
+    "osm_type": "node",
+    "ref_id": "975",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 46 m e dislivello 16 m",
+    "tags.ele": "224",
+    "tags.name": "Caverna 2° del Monte Sedlen",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "894"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.50725,
+     46.198243
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -288,
+    "osm_type": "node",
+    "ref_id": "990",
+    "tags.description": "Ingresso orizzontale a cunicolo, sviluppo planimetrico 146.80 m e dislivello 55 m",
+    "tags.ele": "794",
+    "tags.name": "Grotta di Mersino",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "908"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     13.535717,
+     46.175642
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -289,
+    "osm_type": "node",
+    "ref_id": "994",
+    "tags.description": "Ingresso orizzontale a galleria, sviluppo planimetrico 172 m e dislivello 8 m",
+    "tags.ele": "354",
+    "tags.name": "Grotta di Ieronizza",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "912"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     12.49342,
+     46.126044
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "action": "create",
+    "marker-color": "#11dd11",
+    "osm_id": -290,
+    "osm_type": "node",
+    "ref_id": "998",
+    "tags.description": "Ingresso orizzontale a caverna, sviluppo planimetrico 88 m e dislivello 47 m",
+    "tags.ele": "2023",
+    "tags.name": "Grotta del Cimon di Palantina",
+    "tags.natural": "cave_entrance",
+    "tags.ref": "916"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

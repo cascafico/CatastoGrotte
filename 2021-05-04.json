@@ -1,0 +1,3914 @@
+[
+    {
+      "id"  : 1,
+      "lat" : 45.650101,
+      "lon" : 13.834900,
+      "tags" : {
+               "name" : "Grotta di Padriciano",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 744 m e dislivello 242 m",
+               "ref" : "1",
+               "ele" : "365",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2,
+      "lat" : 45.709880,
+      "lon" : 13.764566,
+      "tags" : {
+               "name" : "Grotta Gigante",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 719 m e dislivello 252 m",
+               "ref" : "2",
+               "ele" : "275",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4,
+      "lat" : 46.151032,
+      "lon" : 13.473086,
+      "tags" : {
+               "name" : "Grotta di S. Giovanni d'Antro",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 4000 m e dislivello 96 m",
+               "ref" : "4",
+               "ele" : "350",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7,
+      "lat" : 46.341787,
+      "lon" : 13.289967,
+      "tags" : {
+               "name" : "Grotta di Barman",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 205 m e dislivello 51 m",
+               "ref" : "7",
+               "ele" : "675",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8,
+      "lat" : 46.246363,
+      "lon" : 12.886745,
+      "tags" : {
+               "name" : "Grotte Verdi di Pradis",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 63 m e dislivello 5 m",
+               "ref" : "8",
+               "ele" : "523",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 11,
+      "lat" : 46.149391,
+      "lon" : 13.405441,
+      "tags" : {
+               "name" : "Foran di Landri",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 263 m e dislivello 56 m",
+               "ref" : "11",
+               "ele" : "485",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 13,
+      "lat" : 46.252686,
+      "lon" : 13.287189,
+      "tags" : {
+               "name" : "Grotta Doviza - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 4591 m e dislivello 123 m",
+               "ref" : "13",
+               "ele" : "607",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 14,
+      "lat" : 46.252267,
+      "lon" : 13.286904,
+      "tags" : {
+               "name" : "Grotta Doviza - Ingresso 3",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 4591 m e dislivello 123 m",
+               "ref" : "13",
+               "ele" : "611",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 15,
+      "lat" : 46.252653,
+      "lon" : 13.286978,
+      "tags" : {
+               "name" : "Grotta Doviza",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 4591 m e dislivello 123 m",
+               "ref" : "13",
+               "ele" : "623",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 18,
+      "lat" : 45.638086,
+      "lon" : 13.845221,
+      "tags" : {
+               "name" : "Grotta nel Bosco dei Pini",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 367 m e dislivello 41 m",
+               "ref" : "16",
+               "ele" : "361",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 22,
+      "lat" : 46.391599,
+      "lon" : 13.435772,
+      "tags" : {
+               "name" : "Fontanon di Goriuda",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 767.60 m e dislivello 121 m",
+               "ref" : "20",
+               "ele" : "861",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 23,
+      "lat" : 46.404110,
+      "lon" : 13.409687,
+      "tags" : {
+               "name" : "Fontanon di Piani",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 60 m e dislivello 6 m",
+               "ref" : "21",
+               "ele" : "705",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 25,
+      "lat" : 45.765838,
+      "lon" : 13.654651,
+      "tags" : {
+               "name" : "Grotta delle Torri di Slivia - Ingresso artificiale",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 554 m e dislivello 101.50 m",
+               "ref" : "22",
+               "ele" : "115",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 33,
+      "lat" : 45.690470,
+      "lon" : 13.791103,
+      "tags" : {
+               "name" : "Grotta Clementina",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 95 m e dislivello 14 m",
+               "ref" : "30",
+               "ele" : "310",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 34,
+      "lat" : 45.690449,
+      "lon" : 13.790936,
+      "tags" : {
+               "name" : "Grotta Clementina - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 95 m e dislivello 14 m",
+               "ref" : "30",
+               "ele" : "310",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 35,
+      "lat" : 45.730960,
+      "lon" : 13.726085,
+      "tags" : {
+               "name" : "Grotta Ercole",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 290 m e dislivello 100 m",
+               "ref" : "31",
+               "ele" : "216",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 37,
+      "lat" : 45.732641,
+      "lon" : 13.725906,
+      "tags" : {
+               "name" : "Grotta dell'Orso",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 175 m e dislivello 39 m",
+               "ref" : "33",
+               "ele" : "211",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 38,
+      "lat" : 45.752723,
+      "lon" : 13.705364,
+      "tags" : {
+               "name" : "Grotta Azzurra - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 235 m e dislivello 45.80 m",
+               "ref" : "34",
+               "ele" : "254",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 39,
+      "lat" : 45.752884,
+      "lon" : 13.705080,
+      "tags" : {
+               "name" : "Grotta Azzurra",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 235 m e dislivello 45.80 m",
+               "ref" : "34",
+               "ele" : "252",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 43,
+      "lat" : 45.818528,
+      "lon" : 13.563786,
+      "tags" : {
+               "name" : "Grotta delle Frane",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 82.80 m e dislivello 17.80 m",
+               "ref" : "38",
+               "ele" : "39",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 48,
+      "lat" : 45.630382,
+      "lon" : 13.851466,
+      "tags" : {
+               "name" : "Grotta Nera",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 69 m e dislivello 36 m",
+               "ref" : "43",
+               "ele" : "390",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 53,
+      "lat" : 46.238666,
+      "lon" : 13.350527,
+      "tags" : {
+               "name" : "Grotta di Taipana",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 90 m e dislivello 3 m",
+               "ref" : "46",
+               "ele" : "849",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 70,
+      "lat" : 46.255266,
+      "lon" : 13.256809,
+      "tags" : {
+               "name" : "Grotta Vedronza - Ingresso A",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 800 m e dislivello 9 m",
+               "ref" : "63",
+               "ele" : "309",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 71,
+      "lat" : 46.255312,
+      "lon" : 13.256721,
+      "tags" : {
+               "name" : "Grotta Vedronza - Ingresso B",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 800 m e dislivello 9 m",
+               "ref" : "63",
+               "ele" : "321",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 72,
+      "lat" : 45.635325,
+      "lon" : 13.870826,
+      "tags" : {
+               "name" : "Grotta Bac",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 130 m e dislivello 16 m",
+               "ref" : "64",
+               "ele" : "390",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 78,
+      "lat" : 45.641761,
+      "lon" : 13.838293,
+      "tags" : {
+               "name" : "Grotta ad W di Basovizza",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 128 m e dislivello 17 m",
+               "ref" : "68",
+               "ele" : "366",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 86,
+      "lat" : 45.612508,
+      "lon" : 13.859776,
+      "tags" : {
+               "name" : "Antro di Bagnoli",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 145 m e dislivello 52 m",
+               "ref" : "76",
+               "ele" : "62",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 88,
+      "lat" : 45.767892,
+      "lon" : 13.715008,
+      "tags" : {
+               "name" : "Grotta di Ternovizza",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 470 m e dislivello 95.20 m",
+               "ref" : "78",
+               "ele" : "275",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 91,
+      "lat" : 45.779397,
+      "lon" : 13.641856,
+      "tags" : {
+               "name" : "Grotta di Visogliano",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 82 m e dislivello 19 m",
+               "ref" : "80",
+               "ele" : "105",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 97,
+      "lat" : 45.709804,
+      "lon" : 13.732938,
+      "tags" : {
+               "name" : "Grotta di Prosecco",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 48 m e dislivello 8 m",
+               "ref" : "86",
+               "ele" : "257",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 98,
+      "lat" : 45.700073,
+      "lon" : 13.755187,
+      "tags" : {
+               "name" : "Caverna delle Mura",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 63 m e dislivello 4.30 m",
+               "ref" : "87",
+               "ele" : "272",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 99,
+      "lat" : 45.699949,
+      "lon" : 13.755357,
+      "tags" : {
+               "name" : "Caverna delle Mura - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 63 m e dislivello 4.30 m",
+               "ref" : "87",
+               "ele" : "271",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 106,
+      "lat" : 45.741807,
+      "lon" : 13.692093,
+      "tags" : {
+               "name" : "Caverna Tripoli",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 112 m e dislivello 24 m",
+               "ref" : "93",
+               "ele" : "176",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 124,
+      "lat" : 46.244813,
+      "lon" : 13.289920,
+      "tags" : {
+               "name" : "Grotta di Viganti - Ingresso basso",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 1450 m e dislivello 252 m",
+               "ref" : "110",
+               "ele" : "534",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 137,
+      "lat" : 46.146720,
+      "lon" : 13.401724,
+      "tags" : {
+               "name" : "Foran des Aganis",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 761 m e dislivello 90 m",
+               "ref" : "122",
+               "ele" : "333",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 140,
+      "lat" : 45.770374,
+      "lon" : 13.719283,
+      "tags" : {
+               "name" : "Grotta di Boriano",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 188 m e dislivello 23.50 m",
+               "ref" : "125",
+               "ele" : "248.60",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 143,
+      "lat" : 46.261427,
+      "lon" : 12.578745,
+      "tags" : {
+               "name" : "Landri Scur",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 4322 m e dislivello 180 m",
+               "ref" : "127",
+               "ele" : "1113",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 144,
+      "lat" : 45.809666,
+      "lon" : 13.544388,
+      "tags" : {
+               "name" : "Grotta dei Pipistrelli",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 44 m e dislivello 17 m",
+               "ref" : "128",
+               "ele" : "56",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 156,
+      "lat" : 46.233912,
+      "lon" : 13.305334,
+      "tags" : {
+               "name" : "Grotta di Monteprato",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 158.42 m e dislivello 47.49 m",
+               "ref" : "139",
+               "ele" : "520",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 159,
+      "lat" : 46.358728,
+      "lon" : 12.731734,
+      "tags" : {
+               "name" : "Fontanon del Riu Neri",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 1280 m e dislivello 230 m",
+               "ref" : "142",
+               "ele" : "722",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 163,
+      "lat" : 45.755966,
+      "lon" : 13.693565,
+      "tags" : {
+               "name" : "Caverna Caterina",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 80 m e dislivello 15.50 m",
+               "ref" : "146",
+               "ele" : "198",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 164,
+      "lat" : 45.748379,
+      "lon" : 13.704051,
+      "tags" : {
+               "name" : "Grotta delle Radici",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 43 m e dislivello 2.40 m",
+               "ref" : "147",
+               "ele" : "208",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 172,
+      "lat" : 46.131296,
+      "lon" : 13.505877,
+      "tags" : {
+               "name" : "Ciastita Jama",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 197 m e dislivello 17 m",
+               "ref" : "155",
+               "ele" : "167",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 173,
+      "lat" : 46.131346,
+      "lon" : 13.505539,
+      "tags" : {
+               "name" : "Ciastita Jama - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 197 m e dislivello 17 m",
+               "ref" : "155",
+               "ele" : "170",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 182,
+      "lat" : 45.735069,
+      "lon" : 13.698538,
+      "tags" : {
+               "name" : "Grotta degli Occhiali",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 44 m e dislivello 20 m",
+               "ref" : "162",
+               "ele" : "194",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 185,
+      "lat" : 46.588339,
+      "lon" : 12.992754,
+      "tags" : {
+               "name" : "Grotta presso la Centrale di Timau",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 380 m e dislivello 48 m",
+               "ref" : "165",
+               "ele" : "970",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 187,
+      "lat" : 46.223790,
+      "lon" : 12.774496,
+      "tags" : {
+               "name" : "Fornat di Meduno",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 202 m e dislivello 21.50 m",
+               "ref" : "167",
+               "ele" : "360",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 193,
+      "lat" : 45.758787,
+      "lon" : 13.673568,
+      "tags" : {
+               "name" : "Caverna Pocala - Ingresso 2",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 137 m e dislivello 33.50 m",
+               "ref" : "173",
+               "ele" : "138",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 194,
+      "lat" : 45.758707,
+      "lon" : 13.673480,
+      "tags" : {
+               "name" : "Caverna Pocala",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 137 m e dislivello 33.50 m",
+               "ref" : "173",
+               "ele" : "135",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 197,
+      "lat" : 46.240545,
+      "lon" : 13.292055,
+      "tags" : {
+               "name" : "Grotta di Pre Oreak",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 420 m e dislivello 5 m",
+               "ref" : "176",
+               "ele" : "285",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 202,
+      "lat" : 45.739065,
+      "lon" : 13.689023,
+      "tags" : {
+               "name" : "Abisso della Cava di Boschetti",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 112 m e dislivello 110 m",
+               "ref" : "180",
+               "ele" : "180",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 258,
+      "lat" : 46.236398,
+      "lon" : 12.950524,
+      "tags" : {
+               "name" : "Ciase de lis Aganis",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 554 m e dislivello 60 m",
+               "ref" : "229",
+               "ele" : "510",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 263,
+      "lat" : 46.189750,
+      "lon" : 13.342900,
+      "tags" : {
+               "name" : "Caverna di Landri",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 106 m e dislivello 11.50 m",
+               "ref" : "234",
+               "ele" : "430",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 264,
+      "lat" : 46.333724,
+      "lon" : 12.814377,
+      "tags" : {
+               "name" : "Fontanon dal Toff",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 120 m e dislivello 20.50 m",
+               "ref" : "235",
+               "ele" : "650",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 267,
+      "lat" : 46.132532,
+      "lon" : 13.484003,
+      "tags" : {
+               "name" : "Grotta di S. Pietro al Natisone",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 70 m e dislivello 4 m",
+               "ref" : "238",
+               "ele" : "170",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 268,
+      "lat" : 46.247641,
+      "lon" : 13.281522,
+      "tags" : {
+               "name" : "Ta Pot Korito Jama",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 55 m e dislivello 10 m",
+               "ref" : "239",
+               "ele" : "625",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 269,
+      "lat" : 46.272659,
+      "lon" : 13.276534,
+      "tags" : {
+               "name" : "Grotta pod Jama di Lusevera",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 107 m e dislivello 27.50 m",
+               "ref" : "240",
+               "ele" : "445",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 275,
+      "lat" : 46.123947,
+      "lon" : 13.568100,
+      "tags" : {
+               "name" : "Grotta Velenizza",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 74 m e dislivello 1 m",
+               "ref" : "246",
+               "ele" : "260",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 284,
+      "lat" : 46.247115,
+      "lon" : 13.309585,
+      "tags" : {
+               "name" : "Buse da l'Ors",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 53 m e dislivello 9 m",
+               "ref" : "255",
+               "ele" : "338",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 286,
+      "lat" : 46.239262,
+      "lon" : 13.234245,
+      "tags" : {
+               "name" : "Grotta di Crosis",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 167 m e dislivello 26 m",
+               "ref" : "257",
+               "ele" : "325",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 292,
+      "lat" : 46.261014,
+      "lon" : 13.189896,
+      "tags" : {
+               "name" : "La Foranate",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 41 m e dislivello 2 m",
+               "ref" : "262",
+               "ele" : "540",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 321,
+      "lat" : 45.617947,
+      "lon" : 13.883234,
+      "tags" : {
+               "name" : "Grotta delle Gallerie",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 209 m e dislivello 26 m",
+               "ref" : "290",
+               "ele" : "345",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 322,
+      "lat" : 45.617752,
+      "lon" : 13.883498,
+      "tags" : {
+               "name" : "Grotta delle Gallerie - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 209 m e dislivello 26 m",
+               "ref" : "290",
+               "ele" : "345",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 323,
+      "lat" : 45.617999,
+      "lon" : 13.883175,
+      "tags" : {
+               "name" : "Grotta delle Gallerie - Ingresso 3",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 209 m e dislivello 26 m",
+               "ref" : "290",
+               "ele" : "352",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 330,
+      "lat" : 46.380109,
+      "lon" : 13.438576,
+      "tags" : {
+               "name" : "Grotta con ghiaccio sotto il Foran del Muss",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 44 m e dislivello 56 m",
+               "ref" : "297",
+               "ele" : "1800",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 334,
+      "lat" : 46.201131,
+      "lon" : 13.350115,
+      "tags" : {
+               "name" : "Grotta sotto il Nahrad",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 115 m e dislivello 0 m",
+               "ref" : "301",
+               "ele" : "575",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 348,
+      "lat" : 45.617264,
+      "lon" : 13.869132,
+      "tags" : {
+               "name" : "Grotta sulla parete NW del Monte Carso",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 60 m e dislivello 12 m",
+               "ref" : "315",
+               "ele" : "276",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 351,
+      "lat" : 46.185635,
+      "lon" : 13.474228,
+      "tags" : {
+               "name" : "Suosteriova Jama",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 47 m e dislivello 25 m",
+               "ref" : "317",
+               "ele" : "245",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 360,
+      "lat" : 45.878022,
+      "lon" : 13.547357,
+      "tags" : {
+               "name" : "Antro di Casali Neri",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 55 m e dislivello 14.40 m",
+               "ref" : "326",
+               "ele" : "191",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 370,
+      "lat" : 46.445108,
+      "lon" : 13.456067,
+      "tags" : {
+               "name" : "Grotta di Val Saisera",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 82 m e dislivello 31 m",
+               "ref" : "335",
+               "ele" : "1110",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 385,
+      "lat" : 46.248190,
+      "lon" : 12.839545,
+      "tags" : {
+               "name" : "Grotta Sorgente dell'Agar",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 52 m e dislivello 11.60 m",
+               "ref" : "350",
+               "ele" : "724",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 387,
+      "lat" : 46.247984,
+      "lon" : 12.839618,
+      "tags" : {
+               "name" : "Grotta Sorgente dell'Agar - Ingresso 3",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 52 m e dislivello 11.60 m",
+               "ref" : "350",
+               "ele" : "728",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 388,
+      "lat" : 46.243114,
+      "lon" : 12.830560,
+      "tags" : {
+               "name" : "Fontanon del Volt",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 41.50 m e dislivello 6.60 m",
+               "ref" : "351",
+               "ele" : "816",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 389,
+      "lat" : 46.243132,
+      "lon" : 12.830520,
+      "tags" : {
+               "name" : "Fontanon del Volt - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41.50 m e dislivello 6.60 m",
+               "ref" : "351",
+               "ele" : "816",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 391,
+      "lat" : 46.251716,
+      "lon" : 12.846127,
+      "tags" : {
+               "name" : "Fontana della Ciuta",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 52.60 m e dislivello 5.70 m",
+               "ref" : "353",
+               "ele" : "771",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 393,
+      "lat" : 46.258448,
+      "lon" : 12.797011,
+      "tags" : {
+               "name" : "Busate dal Ferol",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 50 m e dislivello 0 m",
+               "ref" : "355",
+               "ele" : "475",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 426,
+      "lat" : 45.723299,
+      "lon" : 13.754723,
+      "tags" : {
+               "name" : "Grotta Marcella",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 72 m e dislivello 27 m",
+               "ref" : "385",
+               "ele" : "269",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 434,
+      "lat" : 45.833630,
+      "lon" : 13.580913,
+      "tags" : {
+               "name" : "Abisso di Bonetti - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 87.50 m e dislivello 49 m",
+               "ref" : "393",
+               "ele" : "186",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 447,
+      "lat" : 45.809500,
+      "lon" : 13.544611,
+      "tags" : {
+               "name" : "Caverna Vergine",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 68 m e dislivello 17.70 m",
+               "ref" : "404",
+               "ele" : "52",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 448,
+      "lat" : 45.809361,
+      "lon" : 13.544611,
+      "tags" : {
+               "name" : "Caverna Vergine - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 68 m e dislivello 17.70 m",
+               "ref" : "404",
+               "ele" : "47",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 449,
+      "lat" : 45.811773,
+      "lon" : 13.574777,
+      "tags" : {
+               "name" : "Caverna Generale Ricordi",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 120 m e dislivello 31 m",
+               "ref" : "405",
+               "ele" : "59",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 452,
+      "lat" : 46.162929,
+      "lon" : 13.357203,
+      "tags" : {
+               "name" : "Grotta della Cava di Papipano",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 215 m e dislivello 6 m",
+               "ref" : "408",
+               "ele" : "203",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 456,
+      "lat" : 45.705435,
+      "lon" : 13.827136,
+      "tags" : {
+               "name" : "Grotta Sottomonte",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 97 m e dislivello 55 m",
+               "ref" : "412",
+               "ele" : "323",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 459,
+      "lat" : 45.817699,
+      "lon" : 13.577349,
+      "tags" : {
+               "name" : "Caverna dell'Infermeria",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 77.50 m e dislivello 12.50 m",
+               "ref" : "414",
+               "ele" : "50",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 460,
+      "lat" : 45.817853,
+      "lon" : 13.577474,
+      "tags" : {
+               "name" : "Caverna dell'Infermeria - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 77.50 m e dislivello 12.50 m",
+               "ref" : "414",
+               "ele" : "52",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 465,
+      "lat" : 45.780343,
+      "lon" : 13.613740,
+      "tags" : {
+               "name" : "Grotta Alexanderhohle",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 192 m e dislivello 39 m",
+               "ref" : "419",
+               "ele" : "156",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 472,
+      "lat" : 45.751958,
+      "lon" : 13.709202,
+      "tags" : {
+               "name" : "Grotta Cosmini",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 124 m e dislivello 29.50 m",
+               "ref" : "424",
+               "ele" : "240",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 478,
+      "lat" : 45.857930,
+      "lon" : 13.556519,
+      "tags" : {
+               "name" : "Grotta di Marcottini - Ingresso 3",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 44.50 m e dislivello 5 m",
+               "ref" : "429",
+               "ele" : "96.50",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 479,
+      "lat" : 45.858040,
+      "lon" : 13.556550,
+      "tags" : {
+               "name" : "Grotta di Marcottini - Ingresso 2",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 44.50 m e dislivello 5 m",
+               "ref" : "429",
+               "ele" : "96.50",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 517,
+      "lat" : 45.756282,
+      "lon" : 13.701632,
+      "tags" : {
+               "name" : "Grotta Gialla",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 58 m e dislivello 17 m",
+               "ref" : "467",
+               "ele" : "240",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 543,
+      "lat" : 45.698397,
+      "lon" : 13.740247,
+      "tags" : {
+               "name" : "Caverna 2ª sulla Strada Napoleonica",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 41.50 m e dislivello 9.50 m",
+               "ref" : "491",
+               "ele" : "270",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 552,
+      "lat" : 45.717442,
+      "lon" : 13.721317,
+      "tags" : {
+               "name" : "Grotta del Bersaglio Militare",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 63 m e dislivello 11.50 m",
+               "ref" : "499",
+               "ele" : "241",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 554,
+      "lat" : 45.702608,
+      "lon" : 13.821342,
+      "tags" : {
+               "name" : "Grotta del Frassino",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 52 m e dislivello 16 m",
+               "ref" : "500",
+               "ele" : "327",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 555,
+      "lat" : 45.707467,
+      "lon" : 13.817330,
+      "tags" : {
+               "name" : "Caverna dei Ciclami",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 59 m e dislivello 13 m",
+               "ref" : "501",
+               "ele" : "328",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 581,
+      "lat" : 46.247179,
+      "lon" : 12.873521,
+      "tags" : {
+               "name" : "Cevola di Battei",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 79 m e dislivello 14.20 m",
+               "ref" : "520",
+               "ele" : "600",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 588,
+      "lat" : 45.617179,
+      "lon" : 13.884581,
+      "tags" : {
+               "name" : "Grotta dei Pipistrelli",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 110 m e dislivello 9 m",
+               "ref" : "527",
+               "ele" : "320",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 595,
+      "lat" : 45.607214,
+      "lon" : 13.867364,
+      "tags" : {
+               "name" : "Grotta di Crogole",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 193 m e dislivello 46 m",
+               "ref" : "535",
+               "ele" : "347",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 626,
+      "lat" : 45.618175,
+      "lon" : 13.877631,
+      "tags" : {
+               "name" : "Grotta delle Ninfe",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 65 m e dislivello 12.50 m",
+               "ref" : "565",
+               "ele" : "124",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 630,
+      "lat" : 45.707685,
+      "lon" : 13.815809,
+      "tags" : {
+               "name" : "Grotta delle Perle",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 317 m e dislivello 109 m",
+               "ref" : "569",
+               "ele" : "324",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 636,
+      "lat" : 46.247955,
+      "lon" : 12.883791,
+      "tags" : {
+               "name" : "Caverna Mainarda",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 3 m",
+               "ref" : "574",
+               "ele" : "530",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 637,
+      "lat" : 45.753590,
+      "lon" : 13.665302,
+      "tags" : {
+               "name" : "Grotta a NW di Aurisina",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 115 m e dislivello 44 m",
+               "ref" : "575",
+               "ele" : "131",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 667,
+      "lat" : 46.377750,
+      "lon" : 12.963555,
+      "tags" : {
+               "name" : "Grotta di Chialduis",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 586 m e dislivello 44 m",
+               "ref" : "605",
+               "ele" : "535",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 695,
+      "lat" : 46.123761,
+      "lon" : 13.522117,
+      "tags" : {
+               "name" : "Grotta di Osgnetto",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 178 m e dislivello 13.30 m",
+               "ref" : "633",
+               "ele" : "170",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 738,
+      "lat" : 45.795642,
+      "lon" : 13.631877,
+      "tags" : {
+               "name" : "Caverna del Monte Querceto - Ingresso naturale",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 9 m",
+               "ref" : "671",
+               "ele" : "221",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 739,
+      "lat" : 45.795508,
+      "lon" : 13.632090,
+      "tags" : {
+               "name" : "Caverna del Monte Querceto - Ingresso artificiale",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 45 m e dislivello 9 m",
+               "ref" : "671",
+               "ele" : "212",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 757,
+      "lat" : 45.653384,
+      "lon" : 13.856483,
+      "tags" : {
+               "name" : "Caverna presso Basovizza",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 82.50 m e dislivello 24 m",
+               "ref" : "689",
+               "ele" : "372",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 823,
+      "lat" : 45.642125,
+      "lon" : 13.886739,
+      "tags" : {
+               "name" : "Grotta sul Monte Cocusso",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 42 m e dislivello 17 m",
+               "ref" : "751",
+               "ele" : "493",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 831,
+      "lat" : 46.247643,
+      "lon" : 12.888797,
+      "tags" : {
+               "name" : "Inghiottitoio dell'Osteria di Gerchia",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 766 m e dislivello 45 m",
+               "ref" : "759",
+               "ele" : "510",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 859,
+      "lat" : 46.185666,
+      "lon" : 12.598527,
+      "tags" : {
+               "name" : "Grotta della Vecchia Diga",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 1388 m e dislivello 82 m",
+               "ref" : "786",
+               "ele" : "483",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 860,
+      "lat" : 46.186138,
+      "lon" : 12.597750,
+      "tags" : {
+               "name" : "Grotta della Vecchia Diga - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 1388 m e dislivello 82 m",
+               "ref" : "786",
+               "ele" : "458",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 867,
+      "lat" : 45.615731,
+      "lon" : 13.884178,
+      "tags" : {
+               "name" : "Grotta sopra Bottazzo",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 45 m e dislivello 19 m",
+               "ref" : "793",
+               "ele" : "231",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 872,
+      "lat" : 46.246293,
+      "lon" : 12.882986,
+      "tags" : {
+               "name" : "Grotte di La Val - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2413 m e dislivello 237 m",
+               "ref" : "798",
+               "ele" : "524",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 873,
+      "lat" : 46.246102,
+      "lon" : 12.882863,
+      "tags" : {
+               "name" : "Grotte di La Val",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 2413 m e dislivello 237 m",
+               "ref" : "798",
+               "ele" : "524",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 883,
+      "lat" : 46.229647,
+      "lon" : 13.293898,
+      "tags" : {
+               "name" : "Grotta 3 a SW di Monteprato",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 45 m e dislivello 37 m",
+               "ref" : "808",
+               "ele" : "545",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 906,
+      "lat" : 45.765120,
+      "lon" : 13.674510,
+      "tags" : {
+               "name" : "Grotta Antonio Federico Lindner",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 825 m e dislivello 177.50 m",
+               "ref" : "829",
+               "ele" : "179.40",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 973,
+      "lat" : 46.203905,
+      "lon" : 13.511491,
+      "tags" : {
+               "name" : "Abisso a SW del Monte Matajur",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 405 m e dislivello 175 m",
+               "ref" : "893",
+               "ele" : "1200",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 975,
+      "lat" : 45.777389,
+      "lon" : 13.697748,
+      "tags" : {
+               "name" : "Caverna 2° del Monte Sedlen",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 46 m e dislivello 16 m",
+               "ref" : "894",
+               "ele" : "224",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 980,
+      "lat" : 45.778717,
+      "lon" : 13.696957,
+      "tags" : {
+               "name" : "Caverna 3° del Monte Sedlen",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 115 m e dislivello 58.50 m",
+               "ref" : "898",
+               "ele" : "223",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 990,
+      "lat" : 46.198243,
+      "lon" : 13.507250,
+      "tags" : {
+               "name" : "Grotta di Mersino",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 146.80 m e dislivello 55 m",
+               "ref" : "908",
+               "ele" : "794",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 994,
+      "lat" : 46.175642,
+      "lon" : 13.535717,
+      "tags" : {
+               "name" : "Grotta di Ieronizza",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 172 m e dislivello 8 m",
+               "ref" : "912",
+               "ele" : "354",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 998,
+      "lat" : 46.126044,
+      "lon" : 12.493420,
+      "tags" : {
+               "name" : "Grotta del Cimon di Palantina",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 88 m e dislivello 47 m",
+               "ref" : "916",
+               "ele" : "2023",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1008,
+      "lat" : 45.713350,
+      "lon" : 13.725842,
+      "tags" : {
+               "name" : "Grotta presso Prosecco",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 72 m e dislivello 23 m",
+               "ref" : "926",
+               "ele" : "244",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1012,
+      "lat" : 45.619151,
+      "lon" : 13.880925,
+      "tags" : {
+               "name" : "Fessura del Vento",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2626 m e dislivello 143 m",
+               "ref" : "930",
+               "ele" : "295",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1022,
+      "lat" : 46.257991,
+      "lon" : 13.282231,
+      "tags" : {
+               "name" : "Grotta Nuova di Villanova - Ingresso turistico",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 8020 m e dislivello 296 m",
+               "ref" : "939",
+               "ele" : "565",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1023,
+      "lat" : 46.253510,
+      "lon" : 13.280352,
+      "tags" : {
+               "name" : "Grotta Nuova di Villanova - Ingresso vecchio",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 8020 m e dislivello 296 m",
+               "ref" : "939",
+               "ele" : "656",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1024,
+      "lat" : 46.261264,
+      "lon" : 13.277683,
+      "tags" : {
+               "name" : "Grotta Nuova di Villanova - Tunnel",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 8020 m e dislivello 296 m",
+               "ref" : "939",
+               "ele" : "483",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1028,
+      "lat" : 46.260465,
+      "lon" : 12.916631,
+      "tags" : {
+               "name" : "Risorgiva 1 presso Mineres",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 159 m e dislivello 33 m",
+               "ref" : "942",
+               "ele" : "496",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1094,
+      "lat" : 45.717966,
+      "lon" : 13.763296,
+      "tags" : {
+               "name" : "Caverna 1° del Colle Pauliano",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 64 m e dislivello 11.50 m",
+               "ref" : "1003",
+               "ele" : "263",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1113,
+      "lat" : 46.190555,
+      "lon" : 13.432944,
+      "tags" : {
+               "name" : "Grotta 1° a SW di Montefosca",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 131 m e dislivello 9 m",
+               "ref" : "1021",
+               "ele" : "684",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1139,
+      "lat" : 46.558031,
+      "lon" : 13.199677,
+      "tags" : {
+               "name" : "Abisso Silvio Polidori",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 235 m e dislivello 192 m",
+               "ref" : "1047",
+               "ele" : "1665",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1168,
+      "lat" : 46.109870,
+      "lon" : 13.537201,
+      "tags" : {
+               "name" : "Grotta Risorgiva di Star Cedat",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 1200 m e dislivello 60 m",
+               "ref" : "1076",
+               "ele" : "300",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1201,
+      "lat" : 46.575257,
+      "lon" : 13.183784,
+      "tags" : {
+               "name" : "Grotta di Attila",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 453 m e dislivello 41 m",
+               "ref" : "1103",
+               "ele" : "1762",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1211,
+      "lat" : 46.168178,
+      "lon" : 13.631295,
+      "tags" : {
+               "name" : "Grotta del Cane",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 529 m e dislivello 15 m",
+               "ref" : "1113",
+               "ele" : "515",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1214,
+      "lat" : 46.250205,
+      "lon" : 12.884755,
+      "tags" : {
+               "name" : "Risorgiva 1° presso Pradis",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 41 m e dislivello 3 m",
+               "ref" : "1116",
+               "ele" : "516",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1241,
+      "lat" : 46.264279,
+      "lon" : 12.909103,
+      "tags" : {
+               "name" : "Grotta 2° nella Forra del Rio Molin",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 575 m e dislivello 27 m",
+               "ref" : "1142",
+               "ele" : "490",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1381,
+      "lat" : 46.250669,
+      "lon" : 12.883064,
+      "tags" : {
+               "name" : "Inghiottitoio a NW di Gerchia - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 131 m e dislivello 15 m",
+               "ref" : "1278",
+               "ele" : "542",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1382,
+      "lat" : 46.250526,
+      "lon" : 12.882667,
+      "tags" : {
+               "name" : "Inghiottitoio a NW di Gerchia",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 131 m e dislivello 15 m",
+               "ref" : "1278",
+               "ele" : "542",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1383,
+      "lat" : 46.250819,
+      "lon" : 12.883408,
+      "tags" : {
+               "name" : "Inghiottitoio a NW di Gerchia - Ingresso 3",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 131 m e dislivello 15 m",
+               "ref" : "1278",
+               "ele" : "542",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1396,
+      "lat" : 45.792469,
+      "lon" : 13.616042,
+      "tags" : {
+               "name" : "Grotta di Coisce - Ingresso 3",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 67 m e dislivello 24 m",
+               "ref" : "1289",
+               "ele" : "252",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1402,
+      "lat" : 45.777846,
+      "lon" : 13.637268,
+      "tags" : {
+               "name" : "Grotta Valentina",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 365 m e dislivello 31 m",
+               "ref" : "1295",
+               "ele" : "96",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1453,
+      "lat" : 46.374900,
+      "lon" : 13.459310,
+      "tags" : {
+               "name" : "Abisso Mario Novelli",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 135 m e dislivello 385 m",
+               "ref" : "1346",
+               "ele" : "1785",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1454,
+      "lat" : 46.374140,
+      "lon" : 13.459340,
+      "tags" : {
+               "name" : "Grotta del Ghiaccio",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 150 m e dislivello 125 m",
+               "ref" : "1347",
+               "ele" : "1840",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1479,
+      "lat" : 46.387428,
+      "lon" : 13.459428,
+      "tags" : {
+               "name" : "Grotta sopra le Moelis",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 1637 m e dislivello 94 m",
+               "ref" : "1371",
+               "ele" : "1230",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1494,
+      "lat" : 45.657613,
+      "lon" : 13.816713,
+      "tags" : {
+               "name" : "Abisso della Cava Faccanoni",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 75 m e dislivello 150.50 m",
+               "ref" : "1386",
+               "ele" : "220",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1519,
+      "lat" : 45.796483,
+      "lon" : 13.635450,
+      "tags" : {
+               "name" : "Grotta Doerfler",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 63.50 m e dislivello 18.20 m",
+               "ref" : "1409",
+               "ele" : "171",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1520,
+      "lat" : 45.796679,
+      "lon" : 13.635303,
+      "tags" : {
+               "name" : "Grotta Doerfler - Ingresso 2",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 63.50 m e dislivello 18.20 m",
+               "ref" : "1409",
+               "ele" : "171",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1547,
+      "lat" : 45.616816,
+      "lon" : 13.886038,
+      "tags" : {
+               "name" : "Grotta sulla destra del Torrente Rosandra",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 77 m e dislivello 7 m",
+               "ref" : "1435",
+               "ele" : "320",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1572,
+      "lat" : 46.268333,
+      "lon" : 13.325722,
+      "tags" : {
+               "name" : "Grotta Pod Lanisce",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 1950 m e dislivello 30 m",
+               "ref" : "1456",
+               "ele" : "400",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1670,
+      "lat" : 45.765910,
+      "lon" : 13.678620,
+      "tags" : {
+               "name" : "Grotta dell'Ansa",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 185.50 m e dislivello 91.50 m",
+               "ref" : "1550",
+               "ele" : "198",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1712,
+      "lat" : 46.387240,
+      "lon" : 13.443468,
+      "tags" : {
+               "name" : "Grotta presso Casere Goriuda",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 70 m e dislivello 32 m",
+               "ref" : "1588",
+               "ele" : "1482",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1714,
+      "lat" : 46.247746,
+      "lon" : 12.873626,
+      "tags" : {
+               "name" : "Risorgiva presso Battei",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 47 m e dislivello 6 m",
+               "ref" : "1590",
+               "ele" : "598",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1717,
+      "lat" : 46.260621,
+      "lon" : 12.916301,
+      "tags" : {
+               "name" : "Risorgiva 2 presso Mineres",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 350 m e dislivello 10 m",
+               "ref" : "1593",
+               "ele" : "500",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1724,
+      "lat" : 45.617870,
+      "lon" : 13.870429,
+      "tags" : {
+               "name" : "Grotta delle Tacche",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 106 m e dislivello 21 m",
+               "ref" : "1600",
+               "ele" : "252",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1731,
+      "lat" : 46.209003,
+      "lon" : 13.543609,
+      "tags" : {
+               "name" : "Grotta presso Casera Glava",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 413 m e dislivello 81 m",
+               "ref" : "1607",
+               "ele" : "1375",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1745,
+      "lat" : 45.795182,
+      "lon" : 13.628138,
+      "tags" : {
+               "name" : "Grotta sul Monte Ermada - Ingresso artificiale",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 170 m e dislivello 40 m",
+               "ref" : "1621",
+               "ele" : "288",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1748,
+      "lat" : 45.832491,
+      "lon" : 13.571828,
+      "tags" : {
+               "name" : "Grotta dell'Artiglieria",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 95.90 m e dislivello 42.50 m",
+               "ref" : "1625",
+               "ele" : "187",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1843,
+      "lat" : 45.619720,
+      "lon" : 13.874744,
+      "tags" : {
+               "name" : "Grotta degli Altari",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 236.50 m e dislivello 49.50 m",
+               "ref" : "1714",
+               "ele" : "140",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1878,
+      "lat" : 45.739894,
+      "lon" : 13.794402,
+      "tags" : {
+               "name" : "Grotta Francesco",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 167 m e dislivello 63 m",
+               "ref" : "1745",
+               "ele" : "470",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 1975,
+      "lat" : 45.689611,
+      "lon" : 13.814472,
+      "tags" : {
+               "name" : "Grotta presso Banne",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 45 m e dislivello 53 m",
+               "ref" : "1838",
+               "ele" : "310",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2105,
+      "lat" : 46.149561,
+      "lon" : 13.486747,
+      "tags" : {
+               "name" : "Grotta sotto Ponteacco",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41.50 m e dislivello 2 m",
+               "ref" : "1960",
+               "ele" : "164",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2159,
+      "lat" : 46.377399,
+      "lon" : 13.429478,
+      "tags" : {
+               "name" : "Abisso Emilio Comici",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 1520 m e dislivello 710 m",
+               "ref" : "2009",
+               "ele" : "1992",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2244,
+      "lat" : 46.600647,
+      "lon" : 12.949970,
+      "tags" : {
+               "name" : "Grotta Palpiccola",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 456 m e dislivello 72 m",
+               "ref" : "2090",
+               "ele" : "1573",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2245,
+      "lat" : 46.600629,
+      "lon" : 12.949931,
+      "tags" : {
+               "name" : "Grotta Palpiccola - Ingresso 2",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 456 m e dislivello 72 m",
+               "ref" : "2090",
+               "ele" : "1575",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2280,
+      "lat" : 46.248432,
+      "lon" : 13.267851,
+      "tags" : {
+               "name" : "Grotta del Partigiano",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1800 m e dislivello 327 m",
+               "ref" : "2125",
+               "ele" : "630",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2282,
+      "lat" : 46.187186,
+      "lon" : 13.585146,
+      "tags" : {
+               "name" : "Grotta di Cepletischis",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 234 m e dislivello 28 m",
+               "ref" : "2127",
+               "ele" : "535",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2295,
+      "lat" : 46.250424,
+      "lon" : 13.266887,
+      "tags" : {
+               "name" : "Inghiottitoio a N di Stavolo Zabarie",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 213 m e dislivello 43 m",
+               "ref" : "2140",
+               "ele" : "595",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2372,
+      "lat" : 46.274350,
+      "lon" : 12.940400,
+      "tags" : {
+               "name" : "Risorgiva 1° nella Valle del Torrente Arzino",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 68 m e dislivello 14 m",
+               "ref" : "2214",
+               "ele" : "346",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2394,
+      "lat" : 46.154012,
+      "lon" : 13.515745,
+      "tags" : {
+               "name" : "Grotta di Vernassino di Sotto",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 167 m e dislivello 10 m",
+               "ref" : "2235",
+               "ele" : "294",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2403,
+      "lat" : 46.112061,
+      "lon" : 13.540365,
+      "tags" : {
+               "name" : "Grotta a SW di Altana",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2 m",
+               "ref" : "2244",
+               "ele" : "240",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2493,
+      "lat" : 45.881705,
+      "lon" : 13.567450,
+      "tags" : {
+               "name" : "Grotta Regina del Carso",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 320 m e dislivello 57.40 m",
+               "ref" : "2328",
+               "ele" : "194",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2535,
+      "lat" : 46.181652,
+      "lon" : 13.377545,
+      "tags" : {
+               "name" : "Grotta di Canebola",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1400 m e dislivello 60.50 m",
+               "ref" : "2370",
+               "ele" : "690",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2557,
+      "lat" : 45.820439,
+      "lon" : 13.575367,
+      "tags" : {
+               "name" : "Grotta Andrea",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 71 m e dislivello 56.70 m",
+               "ref" : "2391",
+               "ele" : "64",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2590,
+      "lat" : 45.810180,
+      "lon" : 13.547090,
+      "tags" : {
+               "name" : "Caverna della Valle Verde",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2.40 m",
+               "ref" : "2424",
+               "ele" : "56",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2591,
+      "lat" : 45.810369,
+      "lon" : 13.547100,
+      "tags" : {
+               "name" : "Caverna della Valle Verde - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2.40 m",
+               "ref" : "2424",
+               "ele" : "56",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2592,
+      "lat" : 45.810390,
+      "lon" : 13.547120,
+      "tags" : {
+               "name" : "Caverna della Valle Verde - Ingresso 3",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 52.50 m e dislivello 2.40 m",
+               "ref" : "2424",
+               "ele" : "57",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2596,
+      "lat" : 45.632123,
+      "lon" : 13.845651,
+      "tags" : {
+               "name" : "Grotta Mary",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 868 m e dislivello 137 m",
+               "ref" : "2428",
+               "ele" : "350",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2613,
+      "lat" : 46.058371,
+      "lon" : 12.412976,
+      "tags" : {
+               "name" : "Sogno Bianco e Sogno Nero - Sogno Bianco",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 247 m e dislivello 101 m",
+               "ref" : "2445",
+               "ele" : "1006",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2666,
+      "lat" : 46.260965,
+      "lon" : 13.221170,
+      "tags" : {
+               "name" : "Antro della Volpe",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 105 m e dislivello 0 m",
+               "ref" : "2494",
+               "ele" : "535",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2716,
+      "lat" : 46.251557,
+      "lon" : 13.246578,
+      "tags" : {
+               "name" : "Grotta Meandrosa di Stella",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 75 m e dislivello 0 m",
+               "ref" : "2539",
+               "ele" : "570",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2810,
+      "lat" : 46.260072,
+      "lon" : 13.227985,
+      "tags" : {
+               "name" : "Grotta di Artegna",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 476 m e dislivello 5 m",
+               "ref" : "2627",
+               "ele" : "505",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 2985,
+      "lat" : 46.373556,
+      "lon" : 13.441792,
+      "tags" : {
+               "name" : "S 20",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 560 m e dislivello 760 m",
+               "ref" : "2797",
+               "ele" : "1942",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3232,
+      "lat" : 46.246130,
+      "lon" : 12.876737,
+      "tags" : {
+               "name" : "Meandro a S di Battei",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 76 m e dislivello 25 m",
+               "ref" : "3026",
+               "ele" : "592",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3309,
+      "lat" : 45.783329,
+      "lon" : 13.606028,
+      "tags" : {
+               "name" : "Grotta a N di Duino",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 61.30 m e dislivello 9.20 m",
+               "ref" : "3098",
+               "ele" : "181",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3413,
+      "lat" : 46.200416,
+      "lon" : 13.422472,
+      "tags" : {
+               "name" : "Grotta di Montefosca",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 284.40 m e dislivello 19.40 m",
+               "ref" : "3195",
+               "ele" : "770",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3491,
+      "lat" : 46.263545,
+      "lon" : 12.913373,
+      "tags" : {
+               "name" : "Risorgiva 4 presso Mineres",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 145 m e dislivello 20 m",
+               "ref" : "3272",
+               "ele" : "539",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3507,
+      "lat" : 46.385300,
+      "lon" : 13.515619,
+      "tags" : {
+               "name" : "Pozzo 58º sul Monte Robon",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 72 m e dislivello 85 m",
+               "ref" : "3288",
+               "ele" : "1917",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3715,
+      "lat" : 46.384135,
+      "lon" : 13.508297,
+      "tags" : {
+               "name" : "Pozzo 2° sopra Pian delle Lope",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 112 m e dislivello 82 m",
+               "ref" : "3466",
+               "ele" : "1700",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3762,
+      "lat" : 46.379105,
+      "lon" : 13.425042,
+      "tags" : {
+               "name" : "Abisso Giovanni Mornig",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 3465 m e dislivello 441 m",
+               "ref" : "3511",
+               "ele" : "1977",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 3807,
+      "lat" : 45.796269,
+      "lon" : 13.653810,
+      "tags" : {
+               "name" : "Grotta 2° a W di Monte Sambuco",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 42 m e dislivello 14 m",
+               "ref" : "3549",
+               "ele" : "176",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4168,
+      "lat" : 46.207107,
+      "lon" : 13.375214,
+      "tags" : {
+               "name" : "Grotta in località Podlodinz",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 183.10 m e dislivello 34.40 m",
+               "ref" : "3880",
+               "ele" : "595",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4289,
+      "lat" : 46.262021,
+      "lon" : 12.780839,
+      "tags" : {
+               "name" : "Grotta presso Borgata Ferrara",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 144 m e dislivello 10 m",
+               "ref" : "3988",
+               "ele" : "380",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4409,
+      "lat" : 46.413611,
+      "lon" : 13.005805,
+      "tags" : {
+               "name" : "Grotta di Caneva",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 50 m e dislivello 25 m",
+               "ref" : "4094",
+               "ele" : "338",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4411,
+      "lat" : 46.345944,
+      "lon" : 13.047555,
+      "tags" : {
+               "name" : "Grotta di Rio Vaat",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 78 m e dislivello 63.50 m",
+               "ref" : "4096",
+               "ele" : "415",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4488,
+      "lat" : 46.219472,
+      "lon" : 13.399222,
+      "tags" : {
+               "name" : "Grotta presso Stalla Scurc di Prossenicco",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 135 m e dislivello 15 m",
+               "ref" : "4169",
+               "ele" : "600",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4534,
+      "lat" : 45.716318,
+      "lon" : 13.761624,
+      "tags" : {
+               "name" : "Grotta del Paranco",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 180 m e dislivello 40 m",
+               "ref" : "4215",
+               "ele" : "285",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4561,
+      "lat" : 46.373860,
+      "lon" : 13.459430,
+      "tags" : {
+               "name" : "Meandro del Bila Pec",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 155 m e dislivello 230 m",
+               "ref" : "4242",
+               "ele" : "1840",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4629,
+      "lat" : 45.795452,
+      "lon" : 13.597080,
+      "tags" : {
+               "name" : "Caverna a SW di Medeazza",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 43 m e dislivello 9 m",
+               "ref" : "4307",
+               "ele" : "110",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4633,
+      "lat" : 45.837583,
+      "lon" : 13.570277,
+      "tags" : {
+               "name" : "Grotta 2ª di Bonetti - Ingresso sinistro",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 42.50 m e dislivello 2.60 m",
+               "ref" : "4309",
+               "ele" : "154",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4634,
+      "lat" : 45.837555,
+      "lon" : 13.570222,
+      "tags" : {
+               "name" : "Grotta 2ª di Bonetti - Ingresso centrale",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 42.50 m e dislivello 2.60 m",
+               "ref" : "4309",
+               "ele" : "152",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4635,
+      "lat" : 45.837472,
+      "lon" : 13.570111,
+      "tags" : {
+               "name" : "Grotta 2ª di Bonetti - Ingresso destro",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 42.50 m e dislivello 2.60 m",
+               "ref" : "4309",
+               "ele" : "152",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4642,
+      "lat" : 45.796663,
+      "lon" : 13.597513,
+      "tags" : {
+               "name" : "Grotta di Guerra di Medeazza - Ingresso 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 46 m e dislivello 7 m",
+               "ref" : "4315",
+               "ele" : "106",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4643,
+      "lat" : 45.796809,
+      "lon" : 13.597663,
+      "tags" : {
+               "name" : "Grotta di Guerra di Medeazza - Ingresso 4",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 46 m e dislivello 7 m",
+               "ref" : "4315",
+               "ele" : "110",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4644,
+      "lat" : 45.796753,
+      "lon" : 13.597485,
+      "tags" : {
+               "name" : "Grotta di Guerra di Medeazza - Ingresso 3",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 46 m e dislivello 7 m",
+               "ref" : "4315",
+               "ele" : "108",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4667,
+      "lat" : 46.381740,
+      "lon" : 13.454579,
+      "tags" : {
+               "name" : "Principe di Piemonte",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 214 m e dislivello 60 m",
+               "ref" : "4337",
+               "ele" : "1676",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4668,
+      "lat" : 46.381740,
+      "lon" : 13.454885,
+      "tags" : {
+               "name" : "Principe di Piemonte - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 214 m e dislivello 60 m",
+               "ref" : "4337",
+               "ele" : "1669",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4698,
+      "lat" : 46.301539,
+      "lon" : 13.240425,
+      "tags" : {
+               "name" : "Meandro a SW della Casera Tasaoro",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 60 m e dislivello 29 m",
+               "ref" : "4366",
+               "ele" : "1337",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4705,
+      "lat" : 46.207084,
+      "lon" : 13.374890,
+      "tags" : {
+               "name" : "Grotta 2 in località Podlodinz",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 57 m e dislivello 3 m",
+               "ref" : "4373",
+               "ele" : "620",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4735,
+      "lat" : 45.743302,
+      "lon" : 13.696939,
+      "tags" : {
+               "name" : "Caverna dei Vasi",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 50 m e dislivello 12.50 m",
+               "ref" : "4400",
+               "ele" : "175",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4889,
+      "lat" : 46.149463,
+      "lon" : 13.519163,
+      "tags" : {
+               "name" : "Grotta 1° di Altovizza",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 51 m e dislivello 0 m",
+               "ref" : "4537",
+               "ele" : "229",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4921,
+      "lat" : 46.150623,
+      "lon" : 13.425159,
+      "tags" : {
+               "name" : "Grotta Faet",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 416 m e dislivello 38 m",
+               "ref" : "4565",
+               "ele" : "692",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4935,
+      "lat" : 46.555088,
+      "lon" : 13.229074,
+      "tags" : {
+               "name" : "Grotta in parete presso il Bivacco Lomasti",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 48 m e dislivello 30 m",
+               "ref" : "4575",
+               "ele" : "2030",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4938,
+      "lat" : 46.602194,
+      "lon" : 12.953907,
+      "tags" : {
+               "name" : "Grotta 2° sul Sentiero del Pal Piccolo",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41 m e dislivello 11 m",
+               "ref" : "4578",
+               "ele" : "1718",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4965,
+      "lat" : 46.250722,
+      "lon" : 13.377250,
+      "tags" : {
+               "name" : "Grotta sopra il Rio Boncic",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 103 m e dislivello 13 m",
+               "ref" : "4603",
+               "ele" : "674",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 4968,
+      "lat" : 46.265940,
+      "lon" : 12.934657,
+      "tags" : {
+               "name" : "Grotta Damiano",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 43 m e dislivello 0 m",
+               "ref" : "4606",
+               "ele" : "400",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5117,
+      "lat" : 46.600381,
+      "lon" : 12.959759,
+      "tags" : {
+               "name" : "Grotta 1° sul Sentiero Vetta Sciapò-Pal Piccolo",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 91 m e dislivello 7 m",
+               "ref" : "4743",
+               "ele" : "1664",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5198,
+      "lat" : 46.602186,
+      "lon" : 12.962229,
+      "tags" : {
+               "name" : "Grotta 2ª del Pal Piccolo",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 1000 m e dislivello 49 m",
+               "ref" : "4820",
+               "ele" : "1755",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5206,
+      "lat" : 46.604970,
+      "lon" : 12.960723,
+      "tags" : {
+               "name" : "Caverna del Ghiaccio",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 41.50 m e dislivello 41.50 m",
+               "ref" : "4827",
+               "ele" : "1818",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5227,
+      "lat" : 46.151208,
+      "lon" : 13.473456,
+      "tags" : {
+               "name" : "Fessura presso S. Giovanni d'Antro",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 51.40 m e dislivello 11 m",
+               "ref" : "4848",
+               "ele" : "335",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5280,
+      "lat" : 45.740784,
+      "lon" : 13.683683,
+      "tags" : {
+               "name" : "Grotta di Guerra del Monte Babiza - Ingresso A",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 79 m e dislivello 10 m",
+               "ref" : "4894",
+               "ele" : "187",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5297,
+      "lat" : 45.616592,
+      "lon" : 13.885127,
+      "tags" : {
+               "name" : "Grotta Martina",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1991 m e dislivello 60 m",
+               "ref" : "4910",
+               "ele" : "284",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5373,
+      "lat" : 46.555567,
+      "lon" : 13.241465,
+      "tags" : {
+               "name" : "Grotta a N del Monte Cavallo di Pontebba - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 96 m e dislivello 29.80 m",
+               "ref" : "4984",
+               "ele" : "2015",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5374,
+      "lat" : 46.555567,
+      "lon" : 13.241491,
+      "tags" : {
+               "name" : "Grotta 2ª a N del Monte Cavallo di Pontebba",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 41.20 m e dislivello 6 m",
+               "ref" : "4985",
+               "ele" : "2015",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5412,
+      "lat" : 46.330932,
+      "lon" : 13.314409,
+      "tags" : {
+               "name" : "Grotta del Frigo",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 103 m e dislivello 28.70 m",
+               "ref" : "5019",
+               "ele" : "1438",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5414,
+      "lat" : 46.600048,
+      "lon" : 12.958244,
+      "tags" : {
+               "name" : "Grotta Labirynth",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 270 m e dislivello 90 m",
+               "ref" : "5021",
+               "ele" : "1659",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5500,
+      "lat" : 45.619070,
+      "lon" : 13.881692,
+      "tags" : {
+               "name" : "Grotta del Gufo",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 59 m e dislivello 17 m",
+               "ref" : "5090",
+               "ele" : "350",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5593,
+      "lat" : 46.373854,
+      "lon" : 13.467853,
+      "tags" : {
+               "name" : "Abisso Pack Man",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 560 m e dislivello 195 m",
+               "ref" : "5177",
+               "ele" : "1855",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5626,
+      "lat" : 46.177195,
+      "lon" : 13.568779,
+      "tags" : {
+               "name" : "La Mitica",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 335 m e dislivello 0 m",
+               "ref" : "5207",
+               "ele" : "518",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5732,
+      "lat" : 46.249333,
+      "lon" : 13.351250,
+      "tags" : {
+               "name" : "Risorgiva Liscovaz",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 368 m e dislivello 21.30 m",
+               "ref" : "5312",
+               "ele" : "560",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5854,
+      "lat" : 46.371017,
+      "lon" : 13.449800,
+      "tags" : {
+               "name" : "Grotta a N del Monte Ursic",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 76 m e dislivello 62 m",
+               "ref" : "5430",
+               "ele" : "2002",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5915,
+      "lat" : 46.249300,
+      "lon" : 12.885061,
+      "tags" : {
+               "name" : "Buco del Tasso",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 53.50 m e dislivello 0.50 m",
+               "ref" : "5486",
+               "ele" : "510",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 5930,
+      "lat" : 46.247188,
+      "lon" : 12.875440,
+      "tags" : {
+               "name" : "Grotta Battei",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 140 m e dislivello 25 m",
+               "ref" : "5501",
+               "ele" : "604",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 6140,
+      "lat" : 46.386563,
+      "lon" : 13.426327,
+      "tags" : {
+               "name" : "Lazzaro 2 la Vendetta",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 90 m e dislivello 75 m",
+               "ref" : "5693",
+               "ele" : "1490",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 6361,
+      "lat" : 46.553853,
+      "lon" : 13.213293,
+      "tags" : {
+               "name" : "Pozzo CRS 1 96",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 50 m e dislivello 20 m",
+               "ref" : "5904",
+               "ele" : "1920",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 6399,
+      "lat" : 46.203441,
+      "lon" : 13.512489,
+      "tags" : {
+               "name" : "Caverna Testata",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 56 m e dislivello 15 m",
+               "ref" : "5936",
+               "ele" : "1194",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 6774,
+      "lat" : 46.536342,
+      "lon" : 13.242530,
+      "tags" : {
+               "name" : "Sorgiva del Rio Pricotic",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 1303 m e dislivello 100.60 m",
+               "ref" : "6285",
+               "ele" : "1190",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 6981,
+      "lat" : 46.242587,
+      "lon" : 12.844097,
+      "tags" : {
+               "name" : "The Flintstones 2",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 79 m e dislivello 38 m",
+               "ref" : "6472",
+               "ele" : "929",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7013,
+      "lat" : 46.329816,
+      "lon" : 13.322703,
+      "tags" : {
+               "name" : "Grotta Tos 2 - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 68 m e dislivello 46 m",
+               "ref" : "6503",
+               "ele" : "1406",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7039,
+      "lat" : 46.352612,
+      "lon" : 13.014591,
+      "tags" : {
+               "name" : "Corona 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 79 m e dislivello 14 m",
+               "ref" : "6527",
+               "ele" : "598",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7067,
+      "lat" : 46.302240,
+      "lon" : 13.021679,
+      "tags" : {
+               "name" : "Risorgiva del Monte Amula",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 230 m e dislivello 37.50 m",
+               "ref" : "6553",
+               "ele" : "393",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7129,
+      "lat" : 46.542639,
+      "lon" : 13.239903,
+      "tags" : {
+               "name" : "Caverna 2° a SW di Creta di Pricot",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 57.70 m e dislivello 4.50 m",
+               "ref" : "6611",
+               "ele" : "1570",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7209,
+      "lat" : 46.241755,
+      "lon" : 12.834323,
+      "tags" : {
+               "name" : "Cavernette presso il Volt",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 41 m e dislivello 0 m",
+               "ref" : "6687",
+               "ele" : "897",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7210,
+      "lat" : 46.241691,
+      "lon" : 12.834287,
+      "tags" : {
+               "name" : "Cavernette presso il Volt - Ingresso 2",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 41 m e dislivello 0 m",
+               "ref" : "6687",
+               "ele" : "901",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7211,
+      "lat" : 46.241671,
+      "lon" : 12.834158,
+      "tags" : {
+               "name" : "Cavernette presso il Volt - Ingresso 3",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 41 m e dislivello 0 m",
+               "ref" : "6687",
+               "ele" : "903",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7212,
+      "lat" : 46.241664,
+      "lon" : 12.834262,
+      "tags" : {
+               "name" : "Cavernette presso il Volt - Ingresso 4",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 41 m e dislivello 0 m",
+               "ref" : "6687",
+               "ele" : "901",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7542,
+      "lat" : 46.601230,
+      "lon" : 12.964467,
+      "tags" : {
+               "name" : "Abisso Taiada - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 106 m e dislivello 233 m",
+               "ref" : "6971",
+               "ele" : "1740",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7862,
+      "lat" : 46.419973,
+      "lon" : 12.963218,
+      "tags" : {
+               "name" : "Fontanon della Vinadia",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 63 m e dislivello 4 m",
+               "ref" : "7270",
+               "ele" : "450",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7870,
+      "lat" : 46.111811,
+      "lon" : 13.530175,
+      "tags" : {
+               "name" : "Grotta delle Cavallette",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 70 m e dislivello 3 m",
+               "ref" : "7278",
+               "ele" : "260",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7895,
+      "lat" : 46.237798,
+      "lon" : 12.829758,
+      "tags" : {
+               "name" : "Ciuc di Ploc",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 85 m e dislivello 21.30 m",
+               "ref" : "7301",
+               "ele" : "948",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7898,
+      "lat" : 46.237874,
+      "lon" : 12.829936,
+      "tags" : {
+               "name" : "Ciuc di Ploc - Ingresso 4",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 85 m e dislivello 21.30 m",
+               "ref" : "7301",
+               "ele" : "953",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7950,
+      "lat" : 46.241552,
+      "lon" : 12.834539,
+      "tags" : {
+               "name" : "La Claupa 3",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 53 m e dislivello 8 m",
+               "ref" : "7347",
+               "ele" : "903",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7951,
+      "lat" : 46.241180,
+      "lon" : 12.834372,
+      "tags" : {
+               "name" : "La Claupa 3 - Ingresso 3",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 53 m e dislivello 8 m",
+               "ref" : "7347",
+               "ele" : "907",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7952,
+      "lat" : 46.241533,
+      "lon" : 12.834475,
+      "tags" : {
+               "name" : "La Claupa 3 - Ingresso 2",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 53 m e dislivello 8 m",
+               "ref" : "7347",
+               "ele" : "904",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7967,
+      "lat" : 46.384194,
+      "lon" : 13.501780,
+      "tags" : {
+               "name" : "Meandro dei Traumi facciali",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 62 m e dislivello 3 m",
+               "ref" : "7354",
+               "ele" : "1730",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 7972,
+      "lat" : 46.527974,
+      "lon" : 13.461861,
+      "tags" : {
+               "name" : "Grotta di Malga Priu",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 52 m e dislivello 18.70 m",
+               "ref" : "7357",
+               "ele" : "1208",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8069,
+      "lat" : 46.377193,
+      "lon" : 13.459165,
+      "tags" : {
+               "name" : "Abisso Rolo",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 122 m e dislivello 326 m",
+               "ref" : "7450",
+               "ele" : "1700",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8076,
+      "lat" : 45.765072,
+      "lon" : 13.649924,
+      "tags" : {
+               "name" : "Grotta nella Breccia di Sistiana - Ingresso A",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 44 m e dislivello 8 m",
+               "ref" : "7457",
+               "ele" : "103",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8077,
+      "lat" : 45.765189,
+      "lon" : 13.649934,
+      "tags" : {
+               "name" : "Grotta nella Breccia di Sistiana",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 44 m e dislivello 8 m",
+               "ref" : "7457",
+               "ele" : "104",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8087,
+      "lat" : 45.835580,
+      "lon" : 13.574886,
+      "tags" : {
+               "name" : "Grotta Mameli",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 57.50 m e dislivello 7.60 m",
+               "ref" : "7465",
+               "ele" : "195",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8091,
+      "lat" : 46.059110,
+      "lon" : 12.418579,
+      "tags" : {
+               "name" : "Grotta degli Slipari",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 138 m e dislivello 45 m",
+               "ref" : "7468",
+               "ele" : "1011",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8106,
+      "lat" : 46.380851,
+      "lon" : 13.424603,
+      "tags" : {
+               "name" : "Abisso Stefano Procopio",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 1196 m e dislivello 221 m",
+               "ref" : "7480",
+               "ele" : "1908",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8109,
+      "lat" : 46.181554,
+      "lon" : 13.345173,
+      "tags" : {
+               "name" : "Meandro sotto Porzus",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 115 m e dislivello 7.20 m",
+               "ref" : "7483",
+               "ele" : "600",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8201,
+      "lat" : 46.293169,
+      "lon" : 12.399765,
+      "tags" : {
+               "name" : "Grotta 2 in Val dal Diach",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 76.10 m e dislivello 37.40 m",
+               "ref" : "7553",
+               "ele" : "1220",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8202,
+      "lat" : 46.382646,
+      "lon" : 13.502485,
+      "tags" : {
+               "name" : "Grotta dei Pirati",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 80 m e dislivello 55 m",
+               "ref" : "7554",
+               "ele" : "1801",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8203,
+      "lat" : 46.290534,
+      "lon" : 12.377014,
+      "tags" : {
+               "name" : "Andre de Sant'Antoni",
+               "description" : "Ingresso orizzontale a riparo sottoroccia, sviluppo planimetrico 68.80 m e dislivello 8.30 m",
+               "ref" : "7555",
+               "ele" : "1385",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8205,
+      "lat" : 46.274371,
+      "lon" : 12.345454,
+      "tags" : {
+               "name" : "Cambre Maria Bon",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 42.30 m e dislivello 14.40 m",
+               "ref" : "7557",
+               "ele" : "1092",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8207,
+      "lat" : 46.244405,
+      "lon" : 12.831690,
+      "tags" : {
+               "name" : "Bus dal Nano",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 139.20 m e dislivello 59.20 m",
+               "ref" : "7558",
+               "ele" : "782",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8209,
+      "lat" : 46.242236,
+      "lon" : 12.835005,
+      "tags" : {
+               "name" : "La Claupa",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 206 m e dislivello 23 m",
+               "ref" : "7559",
+               "ele" : "889",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8210,
+      "lat" : 46.242295,
+      "lon" : 12.834808,
+      "tags" : {
+               "name" : "La Claupa - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 206 m e dislivello 23 m",
+               "ref" : "7559",
+               "ele" : "887",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8211,
+      "lat" : 46.242264,
+      "lon" : 12.835056,
+      "tags" : {
+               "name" : "La Claupa - Ingresso 3",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 206 m e dislivello 23 m",
+               "ref" : "7559",
+               "ele" : "889",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8212,
+      "lat" : 46.242219,
+      "lon" : 12.835083,
+      "tags" : {
+               "name" : "La Claupa - Ingresso 4",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 206 m e dislivello 23 m",
+               "ref" : "7559",
+               "ele" : "889",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8213,
+      "lat" : 46.242640,
+      "lon" : 12.834963,
+      "tags" : {
+               "name" : "La Claupa - Ingresso 5",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 206 m e dislivello 23 m",
+               "ref" : "7559",
+               "ele" : "889",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8214,
+      "lat" : 46.243056,
+      "lon" : 12.835076,
+      "tags" : {
+               "name" : "La Claupa - Ingresso 6",
+               "description" : "Ingresso orizzontale a meandro, sviluppo planimetrico 206 m e dislivello 23 m",
+               "ref" : "7559",
+               "ele" : "860",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8240,
+      "lat" : 46.360601,
+      "lon" : 13.442329,
+      "tags" : {
+               "name" : "Pot11 - Ingresso in parete",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 51 m",
+               "ref" : "7583",
+               "ele" : "2445",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8242,
+      "lat" : 45.807329,
+      "lon" : 13.594633,
+      "tags" : {
+               "name" : "Caverna del Tenente Weber",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 63.50 m e dislivello 7.50 m",
+               "ref" : "7585",
+               "ele" : "135",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8243,
+      "lat" : 45.807230,
+      "lon" : 13.594584,
+      "tags" : {
+               "name" : "Caverna del Tenente Weber - Ingresso 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 63.50 m e dislivello 7.50 m",
+               "ref" : "7585",
+               "ele" : "134",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8244,
+      "lat" : 45.807201,
+      "lon" : 13.594443,
+      "tags" : {
+               "name" : "Caverna del Tenente Weber - Ingresso 3",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 63.50 m e dislivello 7.50 m",
+               "ref" : "7585",
+               "ele" : "132",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8261,
+      "lat" : 45.725471,
+      "lon" : 13.749024,
+      "tags" : {
+               "name" : "Grotta del Baratro dei Cavalli",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 101 m e dislivello 51.20 m",
+               "ref" : "7599",
+               "ele" : "225",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8262,
+      "lat" : 46.588468,
+      "lon" : 12.992462,
+      "tags" : {
+               "name" : "Grotta dell'Aquila",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 62 m e dislivello 31 m",
+               "ref" : "7600",
+               "ele" : "1035",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8310,
+      "lat" : 46.295852,
+      "lon" : 13.022538,
+      "tags" : {
+               "name" : "Grotta sul Leale",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 43 m e dislivello 18 m",
+               "ref" : "7645",
+               "ele" : "405",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8333,
+      "lat" : 45.795064,
+      "lon" : 13.620687,
+      "tags" : {
+               "name" : "Caverna 22 sul Monte Ermada",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 92 m e dislivello 25.50 m",
+               "ref" : "7668",
+               "ele" : "268",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8361,
+      "lat" : 46.172444,
+      "lon" : 12.615826,
+      "tags" : {
+               "name" : "Grotta di Siviledo",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 187.50 m e dislivello 22 m",
+               "ref" : "7690",
+               "ele" : "450",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8362,
+      "lat" : 46.073324,
+      "lon" : 12.560014,
+      "tags" : {
+               "name" : "Bus della Volpe",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 49 m e dislivello 9 m",
+               "ref" : "7691",
+               "ele" : "315",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8412,
+      "lat" : 46.248212,
+      "lon" : 13.285953,
+      "tags" : {
+               "name" : "Grotta Tirfor - Tirfor 1",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2380 m e dislivello 57 m",
+               "ref" : "7739",
+               "ele" : "560",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8413,
+      "lat" : 46.247658,
+      "lon" : 13.283830,
+      "tags" : {
+               "name" : "Grotta Tirfor - Tirfor 2",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 2380 m e dislivello 57 m",
+               "ref" : "7739",
+               "ele" : "578",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8460,
+      "lat" : 46.378387,
+      "lon" : 13.436401,
+      "tags" : {
+               "name" : "Dobra P",
+               "description" : "Ingresso orizzontale a fessura, sviluppo planimetrico 4570 m e dislivello 938 m",
+               "ref" : "7780",
+               "ele" : "1835",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8469,
+      "lat" : 46.385450,
+      "lon" : 13.428994,
+      "tags" : {
+               "name" : "Grotta Clemente - Grotta Clemente",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 401 m e dislivello 42 m",
+               "ref" : "7788",
+               "ele" : "1580",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8513,
+      "lat" : 46.388550,
+      "lon" : 13.439354,
+      "tags" : {
+               "name" : "Sorgiva sotto Casera Goriuda - Sorgiva sotto Casera Goriuda",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 67 m e dislivello 23 m",
+               "ref" : "7827",
+               "ele" : "1245",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8519,
+      "lat" : 46.385104,
+      "lon" : 13.435312,
+      "tags" : {
+               "name" : "Grotta Dormigliona",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 70 m e dislivello 5 m",
+               "ref" : "7834",
+               "ele" : "1540",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8541,
+      "lat" : 46.588630,
+      "lon" : 12.981888,
+      "tags" : {
+               "name" : "TM 02 - TM 02",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 49 m e dislivello 14 m",
+               "ref" : "7855",
+               "ele" : "1025",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8601,
+      "lat" : 46.392213,
+      "lon" : 13.486302,
+      "tags" : {
+               "name" : "Grotta del Buco del Cucco - 1",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 58 m e dislivello 7 m",
+               "ref" : "7908",
+               "ele" : "1182",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8604,
+      "lat" : 46.392324,
+      "lon" : 13.486330,
+      "tags" : {
+               "name" : "Grotta del Buco del Cucco - 4",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 58 m e dislivello 7 m",
+               "ref" : "7908",
+               "ele" : "1182",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8605,
+      "lat" : 46.392296,
+      "lon" : 13.486386,
+      "tags" : {
+               "name" : "Grotta del Buco del Cucco - 5",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 58 m e dislivello 7 m",
+               "ref" : "7908",
+               "ele" : "1182",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8615,
+      "lat" : 45.730466,
+      "lon" : 13.737566,
+      "tags" : {
+               "name" : "Abisso Malasuerte",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 150 m e dislivello 128 m",
+               "ref" : "7915",
+               "ele" : "245",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8616,
+      "lat" : 46.601944,
+      "lon" : 12.967388,
+      "tags" : {
+               "name" : "Grotta Ruggero \"Fauro\" Timeus - Fauro",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 165 m e dislivello 15 m",
+               "ref" : "7916",
+               "ele" : "1640",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8621,
+      "lat" : 46.380712,
+      "lon" : 13.484108,
+      "tags" : {
+               "name" : "Grotta 3ª presso il Campo degli Alpini - C",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 73 m e dislivello 30 m",
+               "ref" : "7919",
+               "ele" : "1720",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8687,
+      "lat" : 46.237774,
+      "lon" : 12.847515,
+      "tags" : {
+               "name" : "Cjamarates 1",
+               "description" : "Ingresso orizzontale a galleria, sviluppo planimetrico 45 m e dislivello 3.30 m",
+               "ref" : "7954",
+               "ele" : "1073",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8688,
+      "lat" : 46.237643,
+      "lon" : 12.847274,
+      "tags" : {
+               "name" : "Cjamarates 1 - Ingresso 2",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 3.30 m",
+               "ref" : "7954",
+               "ele" : "1076",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8689,
+      "lat" : 46.237749,
+      "lon" : 12.847127,
+      "tags" : {
+               "name" : "Cjamarates 1 - Ingresso 3",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 45 m e dislivello 3.30 m",
+               "ref" : "7954",
+               "ele" : "1072",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8690,
+      "lat" : 46.237786,
+      "lon" : 12.847216,
+      "tags" : {
+               "name" : "Cjamarates 1 - Ingresso 4",
+               "description" : "Ingresso orizzontale a caverna, sviluppo planimetrico 45 m e dislivello 3.30 m",
+               "ref" : "7954",
+               "ele" : "1071",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8696,
+      "lat" : 46.111555,
+      "lon" : 13.538761,
+      "tags" : {
+               "name" : "Grotta 2ª a W di Altana",
+               "description" : "Ingresso orizzontale a cunicolo, sviluppo planimetrico 67 m e dislivello 4 m",
+               "ref" : "7958",
+               "ele" : "249",
+               "natural"  : "cave_entrance"
+               }
+    }
+,
+    {
+      "id"  : 8738,
+      "lat" : 46.565418,
+      "lon" : 13.185212,
+      "tags" : {
+               "name" : "Inghiottitoio sotto Casera Val Dolce",
+               "description" : "Ingresso orizzontale a cavernetta, sviluppo planimetrico 50 m e dislivello 20 m",
+               "ref" : "8000",
+               "ele" : "1685",
+               "natural"  : "cave_entrance"
+               }
+    }
+]
