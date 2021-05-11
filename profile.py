@@ -28,10 +28,10 @@ bbox = True
 master_tags = ('description')
 
 delete_unmatched = False
-#tag_unmatched = { 'note':'this cave is not in RAFVG dataset' }
+tag_unmatched = { 'fixme':'this cave is not in RAFVG dataset' }
 
 
 # max distance to search for a match in meters
-max_distance = 30
+max_distance = 15
 
 duplicate_distance = 1

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-06T09:41:58Z" areas="2021-05-06T08:37:32Z"/>
+<meta osm_base="2021-05-11T07:39:29Z" areas="2021-05-11T06:45:26Z"/>
 
   <node id="485262580" lat="45.6287568" lon="13.8883306" version="2" timestamp="2015-09-08T11:54:25Z" changeset="33879731" uid="398086" user="lesko987">
     <tag k="name" v="foiba F2 3-09"/>
@@ -6544,6 +6544,11 @@
     <tag k="name" v="Jama pod Ronk"/>
     <tag k="natural" v="cave_entrance"/>
     <tag k="ref" v="154"/>
+  </node>
+  <node id="8719366489" lat="45.6696629" lon="13.8056489" version="1" timestamp="2021-05-10T18:04:55Z" changeset="104468402" uid="7550190" user="Paolo Zgn">
+    <tag k="name" v="Cavernetta 3° a SE del Monte Belvedere"/>
+    <tag k="natural" v="cave_entrance"/>
+    <tag k="ref:catasto" v="N.C. 2728"/>
   </node>
   <way id="107124227" version="4" timestamp="2021-01-22T23:36:14Z" changeset="98000451" uid="97922" user="damjang">
     <center lat="45.7464654" lon="13.7018119"/>
