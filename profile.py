@@ -1,4 +1,4 @@
-# mobile phone towers 
+# Grotte 
 
 # aggiunge tag source=RAFVG
 add_source = False
@@ -28,10 +28,10 @@ bbox = True
 master_tags = ('description')
 
 delete_unmatched = False
-tag_unmatched = { 'fixme':'this cave is not in RAFVG dataset' }
+tag_unmatched = { 'note':'this cave entrance has not matches with confirmed RAFVG object within a 20m radius' }
 
 
 # max distance to search for a match in meters
-max_distance = 15
+max_distance = 20
 
 duplicate_distance = 1

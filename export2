@@ -1,0 +1,16 @@
+    {
+      "id"  : {{(cells["iddi"].value)}},
+      "lat" : {{(cells["lat"].value)}},
+      "lon" : {{(cells["lon"].value)}},
+      "tags" : {
+               "name" : {{jsonize(cells["name"].value)}},
+               "description" : {{jsonize(cells["description_short"].value)}},
+               "cave:ref" : {{jsonize(cells["ref"].value)}},
+               "cave:length_plan" : {{jsonize(cells["SVIL_PLAN"].value)}},
+               "cave:depth" : {{jsonize(cells["DISLIVELLO"].value)}},
+               "ele" : {{jsonize(cells["ele"].value)}},
+               "cave:plate"  : "yes"
+               "natural"  : "cave_entrance"
+               }
+    }
+
